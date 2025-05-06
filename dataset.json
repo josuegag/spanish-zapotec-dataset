@@ -1,0 +1,4078 @@
+[
+    {
+        "espanol": "¡Hola!",
+        "zapoteco": "Padiuxi!"
+    },
+    {
+        "espanol": "Buenos días.",
+        "zapoteco": "Padiuxi."
+    },
+    {
+        "espanol": "Buenas tardes.",
+        "zapoteco": "Padiuxi."
+    },
+    {
+        "espanol": "Buenas noches.",
+        "zapoteco": "Buenas noches."
+    },
+    {
+        "espanol": "¿Cómo amaneciste?",
+        "zapoteco": "Padiuxi?"
+    },
+    {
+        "espanol": "¿Qué tal tu día?",
+        "zapoteco": "Xi modo nuu dxi stiu?"
+    },
+    {
+        "espanol": "¿Cómo te ha ido?",
+        "zapoteco": "Ximodo guca ni yaʼ."
+    },
+    {
+        "espanol": "¿Qué tal la familia?",
+        "zapoteco": "Ximodo nuu familia ca yaʼ."
+    },
+    {
+        "espanol": "Me alegra verte.",
+        "zapoteco": "Nayecheʼ nuaaʼ ora guuyaʼ lii."
+    },
+    {
+        "espanol": "¿Qué cuentas?",
+        "zapoteco": "Xi tal xaa?"
+    },
+    {
+        "espanol": "¡Qué gusto saludarte!",
+        "zapoteco": "¡Nabé nayecheʼ bineʼ saludar lii!"
+    },
+    {
+        "espanol": "¡Tanto tiempo sin verte!",
+        "zapoteco": "Ma xhidxi que huayuuya&#39; lii!"
+    },
+    {
+        "espanol": "¿Todo bien en casa?",
+        "zapoteco": "Guiráʼ ni nuu galán ra lídxiluʼ la?"
+    },
+    {
+        "espanol": "¿Cómo te va?",
+        "zapoteco": "Ximodo nuu ni yaʼ."
+    },
+    {
+        "espanol": "Hola, ¿qué hay de nuevo?",
+        "zapoteco": "Hola, xi nacubi nuu yaʼ."
+    },
+    {
+        "espanol": "¿Cómo estás hoy?",
+        "zapoteco": "Xi modo nuulu yannadxí?"
+    },
+    {
+        "espanol": "¡Hola, amigo!",
+        "zapoteco": "¡Hola, xhamiguaʼ!"
+    },
+    {
+        "espanol": "¡Bienvenido!",
+        "zapoteco": "Latiidi!"
+    },
+    {
+        "espanol": "¡Qué alegría encontrarte!",
+        "zapoteco": "¡Guizáʼ nayecheʼ binebiaʼyaʼ lii!"
+    },
+    {
+        "espanol": "¿Cómo te sientes?",
+        "zapoteco": "Ximodo runi sentirluʼ yaʼ."
+    },
+    {
+        "espanol": "¿Descansaste bien?",
+        "zapoteco": "Ñee biziiláʼdxiluʼ galán la?"
+    },
+    {
+        "espanol": "¿Estás bien hoy?",
+        "zapoteco": "Ñee nuuluʼ galán yanna la?"
+    },
+    {
+        "espanol": "¿Cómo has estado?",
+        "zapoteco": "Ximodo huayácaluʼ yaʼ."
+    },
+    {
+        "espanol": "¿Qué novedades tienes?",
+        "zapoteco": "Xii nga ni nacubi yaʼ."
+    },
+    {
+        "espanol": "¡Buenas, compadre!",
+        "zapoteco": "¡Hola, xhamiguaʼ!"
+    },
+    {
+        "espanol": "Hola, ¿cómo andas?",
+        "zapoteco": "Padiuxi ximodo nuu lu?"
+    },
+    {
+        "espanol": "¿Cómo anda todo por allá?",
+        "zapoteco": "Ximodo nuu guiráʼ ni nuu raqué yaʼ."
+    },
+    {
+        "espanol": "¡Saludos!",
+        "zapoteco": "Guendaridapadiuxi!"
+    },
+    {
+        "espanol": "Te veo luego.",
+        "zapoteco": "Tica nagá."
+    },
+    {
+        "espanol": "Nos vemos más tarde.",
+        "zapoteco": "Tica nagá."
+    },
+    {
+        "espanol": "Hasta pronto.",
+        "zapoteco": "Ti guidu&#39;yanu."
+    },
+    {
+        "espanol": "Nos vemos mañana.",
+        "zapoteco": "Guidu'ya lii guixi."
+    },
+    {
+        "espanol": "Que te vaya bien.",
+        "zapoteco": "Gupa ti binni galán."
+    },
+    {
+        "espanol": "Cuídate mucho.",
+        "zapoteco": "Biiyaʼ chaahuiʼ lii."
+    },
+    {
+        "espanol": "Que descanses.",
+        "zapoteco": "Gucuaa ti descansu."
+    },
+    {
+        "espanol": "Adiós, amigo.",
+        "zapoteco": "Adiós, xhamiguaʼ."
+    },
+    {
+        "espanol": "Hasta la próxima.",
+        "zapoteco": "Hasta sti biaje."
+    },
+    {
+        "espanol": "Fue un gusto saludarte.",
+        "zapoteco": "Nabé nayecheʼ binebiaʼyaʼ lii."
+    },
+    {
+        "espanol": "Ya me voy, nos vemos.",
+        "zapoteco": "Maʼ ziaaʼ yanna, guidúʼyanu lii."
+    },
+    {
+        "espanol": "Te espero mañana.",
+        "zapoteco": "Zabezaʼ lii sti dxi."
+    },
+    {
+        "espanol": "Cuídate mucho, por favor.",
+        "zapoteco": "Biiyaʼ chaahuiʼ lii, pur favor."
+    },
+    {
+        "espanol": "Nos vemos otro día.",
+        "zapoteco": "Guidúʼyanu sti dxi."
+    },
+    {
+        "espanol": "Me despido, nos vemos.",
+        "zapoteco": "Nayaʼniʼ despedida, guidúʼyanu lii."
+    },
+    {
+        "espanol": "Hasta el rato.",
+        "zapoteco": "Tica nagá."
+    },
+    {
+        "espanol": "Que tengas buen día.",
+        "zapoteco": "Gapu ti dxi galán."
+    },
+    {
+        "espanol": "Que pases linda tarde.",
+        "zapoteco": "Nabé galán tarde stiuʼ."
+    },
+    {
+        "espanol": "Que tengas buena noche.",
+        "zapoteco": "Nabé galán gueelaʼ ca."
+    },
+    {
+        "espanol": "Hasta mañana temprano.",
+        "zapoteco": "Guidúʼyanu sti dxi siadóʼ."
+    },
+    {
+        "espanol": "Me voy adelantando, cuídate.",
+        "zapoteco": "Maʼ ziaaʼ delante de naa, gupa cuidadu."
+    },
+    {
+        "espanol": "Nos encontramos más tarde.",
+        "zapoteco": "Zadxaaganu despué."
+    },
+    {
+        "espanol": "Hasta otro día.",
+        "zapoteco": "Hasta sti dxi."
+    },
+    {
+        "espanol": "Nos vemos luego.",
+        "zapoteco": "Tica nagá."
+    },
+    {
+        "espanol": "Que estés bien.",
+        "zapoteco": "Guyuu galán."
+    },
+    {
+        "espanol": "Te llamo después.",
+        "zapoteco": "Zabiéʼ lii despué."
+    },
+    {
+        "espanol": "Regreso más tarde.",
+        "zapoteco": "Zabiguetaʼ despué."
+    },
+    {
+        "espanol": "Te veo al rato.",
+        "zapoteco": "zadxaaga lii despué."
+    },
+    {
+        "espanol": "Que descanses bien.",
+        "zapoteco": "Gucuaa ti descansu galán."
+    },
+    {
+        "espanol": "Un gusto platicar contigo.",
+        "zapoteco": "Nabé galán guiniéʼ né lii."
+    },
+    {
+        "espanol": "Nos vemos en la tarde.",
+        "zapoteco": "Guidúʼyanu lii tarde."
+    },
+    {
+        "espanol": "Hasta el domingo.",
+        "zapoteco": "Hasta domingu que."
+    },
+    {
+        "espanol": "Hasta pronto, cuídate.",
+        "zapoteco": "Guidúʼyanu lii nagueendaca, gupa cuidadu."
+    },
+    {
+        "espanol": "Que pases buena semana.",
+        "zapoteco": "Nabé galán semana stiuʼ."
+    },
+    {
+        "espanol": "Buen día para ti.",
+        "zapoteco": "Nachaʼhuiʼ dxi para lii."
+    },
+    {
+        "espanol": "Gracias, hasta luego.",
+        "zapoteco": "Gracias, guidúʼyanu despué."
+    },
+    {
+        "espanol": "Fue bueno verte.",
+        "zapoteco": "Nabé galán biiyaʼ lii."
+    },
+    {
+        "espanol": "Hasta siempre.",
+        "zapoteco": "Despedida para siempre."
+    },
+    {
+        "espanol": "Me dio gusto platicar contigo.",
+        "zapoteco": "Nabé biecheʼ ora gunieniáʼ lii."
+    },
+    {
+        "espanol": "Nos vemos en la noche.",
+        "zapoteco": "Guidúʼyanu gueelaʼ riʼ."
+    },
+    {
+        "espanol": "Feliz tarde.",
+        "zapoteco": "Nayecheʼ tarde."
+    },
+    {
+        "espanol": "Hasta entonces.",
+        "zapoteco": "Dede dxiqué la?"
+    },
+    {
+        "espanol": "Ya me despido.",
+        "zapoteco": "Maʼ cayabeʼ lii despedida yanna."
+    },
+    {
+        "espanol": "Te veo en la fiesta.",
+        "zapoteco": "Zadxaagaʼ lii ra cayaca saa ca."
+    },
+    {
+        "espanol": "Saludos a la familia.",
+        "zapoteco": "Nabé sicarú ca binnilidxi."
+    },
+    {
+        "espanol": "Cuídese mucho.",
+        "zapoteco": "Biiyaʼ chaahuiʼ lii."
+    },
+    {
+        "espanol": "Que te vaya bonito.",
+        "zapoteco": "Nabé galán viaje stiluʼ."
+    },
+    {
+        "espanol": "Feliz fin de semana.",
+        "zapoteco": "Nayecheʼ fin de semana."
+    },
+    {
+        "espanol": "Nos vemos pronto, amigo.",
+        "zapoteco": "Nagueendaca guidúʼyanu lii, xhamiguaʼ."
+    },
+    {
+        "espanol": "Hasta más tarde.",
+        "zapoteco": "Tica nagá."
+    },
+    {
+        "espanol": "Buena suerte.",
+        "zapoteco": "Sicarú guyé."
+    },
+    {
+        "espanol": "Hasta otro rato.",
+        "zapoteco": "Tica nagá."
+    },
+    {
+        "espanol": "Nos vemos en la escuela.",
+        "zapoteco": "Guidúʼyanu ra scuela."
+    },
+    {
+        "espanol": "Hasta la siguiente vez.",
+        "zapoteco": "Hasta sti biaje."
+    },
+    {
+        "espanol": "Que tengas suerte hoy.",
+        "zapoteco": "Nabé galán ni yannadxí."
+    },
+    {
+        "espanol": "Me voy, ya es tarde.",
+        "zapoteco": "Maʼ ziaaʼ, maʼ huadxí."
+    },
+    {
+        "espanol": "Hasta después.",
+        "zapoteco": "Tica nagá."
+    },
+    {
+        "espanol": "Cuídate en el camino.",
+        "zapoteco": "Biiyaʼ chaahuiʼ lu neza."
+    },
+    {
+        "espanol": "Nos hablamos más tarde.",
+        "zapoteco": "Zanínedu xcaadxi binni despué."
+    },
+    {
+        "espanol": "Hasta mañana temprano.",
+        "zapoteco": "Guidúʼyanu sti dxi siadóʼ."
+    },
+    {
+        "espanol": "Nos encontramos luego.",
+        "zapoteco": "Zadxaaganu despué."
+    },
+    {
+        "espanol": "Que tengas bonita tarde.",
+        "zapoteco": "Nabé galán tarde stiuʼ."
+    },
+    {
+        "espanol": "Te veo pronto.",
+        "zapoteco": "Ti guidu’yanu."
+    },
+    {
+        "espanol": "Hasta cuando tú digas.",
+        "zapoteco": "Hasta ora guiniʼluʼ zacá."
+    },
+    {
+        "espanol": "Nos despedimos aquí.",
+        "zapoteco": "Laadu rinidu despedirdu raríʼ."
+    },
+    {
+        "espanol": "Nos vemos al ratito.",
+        "zapoteco": "Guidúʼyanu laatu ti ratuhuiiniʼ si."
+    },
+    {
+        "espanol": "Me voy rápido, te cuidas.",
+        "zapoteco": "Nagueendaca ziaaʼ, biiyaʼ chaahuiʼ lii."
+    },
+    {
+        "espanol": "Hasta más tarde, cuídate.",
+        "zapoteco": "Dede despué, biiyaʼ chaahuiʼ."
+    },
+    {
+        "espanol": "Nos vemos pronto, cuídense.",
+        "zapoteco": "Guidúʼyanu lii nagueendaca, gupa cuidadu."
+    },
+    {
+        "espanol": "Que te vaya excelente.",
+        "zapoteco": "Nabé galán tiempu ca."
+    },
+    {
+        "espanol": "Adiós por ahora.",
+        "zapoteco": "Adiós para yanna."
+    },
+    {
+        "espanol": "Fue un placer verte hoy.",
+        "zapoteco": "Nabé nayecheʼ guyuaaʼ ora biiyaʼ lii yannadxí."
+    },
+    {
+        "espanol": "Voy a desayunar ahora.",
+        "zapoteco": "Maʼ chiguneʼ desayunu yanna."
+    },
+    {
+        "espanol": "Estoy lavando la ropa.",
+        "zapoteco": "Naa cayuneʼ lavandería."
+    },
+    {
+        "espanol": "¿Ya comiste?",
+        "zapoteco": "Pa maʼ gudócabe la?"
+    },
+    {
+        "espanol": "Voy a limpiar la casa.",
+        "zapoteco": "Naa zigucheecheʼ diidxaʼ ndaaniʼ yoo."
+    },
+    {
+        "espanol": "Tengo que hacer la comida.",
+        "zapoteco": "Naquiiñeʼ guneʼ almuerzu."
+    },
+    {
+        "espanol": "Voy al mercado temprano.",
+        "zapoteco": "Nabé tempranu riéʼ mercadu."
+    },
+    {
+        "espanol": "Necesito traer agua.",
+        "zapoteco": "Caquiiñeʼ guedanéʼ nisa."
+    },
+    {
+        "espanol": "Estoy barriendo el patio.",
+        "zapoteco": "Nayaʼniʼ barrer patiu."
+    },
+    {
+        "espanol": "¿Ya fuiste por leña?",
+        "zapoteco": "Ñee maʼ guyeluʼ para chiyúbiluʼ yaga la?"
+    },
+    {
+        "espanol": "Voy al campo un rato.",
+        "zapoteco": "Naa ziaaʼ ca guidxi huiiniʼ ca ti ratuhuiiniʼ."
+    },
+    {
+        "espanol": "Estoy haciendo tortillas.",
+        "zapoteco": "Nayaʼniʼ ca tortilla ca."
+    },
+    {
+        "espanol": "Vamos al río a bañarnos.",
+        "zapoteco": "Guyé ra guiiguʼ que para guiábadu."
+    },
+    {
+        "espanol": "Voy a lavar los trastes.",
+        "zapoteco": "Naa chigucheecheʼ ca platu ca."
+    },
+    {
+        "espanol": "Estoy arreglando mi cuarto.",
+        "zapoteco": "Runeʼ arreglar cuartu stinneʼ."
+    },
+    {
+        "espanol": "¿Qué vas a cocinar hoy?",
+        "zapoteco": "Xii nga ni chiguni cocinarluʼ yannadxí yaʼ."
+    },
+    {
+        "espanol": "Voy a cuidar a mis hermanitos.",
+        "zapoteco": "Maʼ chiguuyaʼ ca bicheʼ huiiniʼ."
+    },
+    {
+        "espanol": "Voy a sembrar frijol.",
+        "zapoteco": "Naquiiñeʼ guneʼ plantar haba."
+    },
+    {
+        "espanol": "Voy a moler el maíz.",
+        "zapoteco": "Naquiiñeʼ guneʼ molinar ca maíz ca."
+    },
+    {
+        "espanol": "Vamos a cortar fruta.",
+        "zapoteco": "Biiyaʼ caadxi cuananaxhi."
+    },
+    {
+        "espanol": "Estoy descansando un rato.",
+        "zapoteco": "Maʼ cayuneʼ ti descansu."
+    },
+    {
+        "espanol": "Voy por huevos al corral.",
+        "zapoteco": "Nayaʼ ziaaʼ ra corral para guidxelaʼ huevu."
+    },
+    {
+        "espanol": "Voy a bañar al perro.",
+        "zapoteco": "Naquiiñeʼ guneʼ bañar ca bihui ca."
+    },
+    {
+        "espanol": "Estoy preparando café.",
+        "zapoteco": "Nayaʼ cayuneʼ café."
+    },
+    {
+        "espanol": "Necesito recoger ropa seca.",
+        "zapoteco": "Caquiiñeʼ guicaaʼ caadxi lari secu."
+    },
+    {
+        "espanol": "Estoy reparando el techo.",
+        "zapoteco": "Maʼ cayuneʼ chaahuiʼ techo stini."
+    },
+    {
+        "espanol": "Voy a regar las plantas.",
+        "zapoteco": "Naquiiñeʼ guneʼ nisa ca planta ca."
+    },
+    {
+        "espanol": "¿Ya lavaste las verduras?",
+        "zapoteco": "Pa maʼ biʼniʼ lavarluʼ ca verdura ca la?"
+    },
+    {
+        "espanol": "Estoy moliendo chile.",
+        "zapoteco": "Nabé sicarú chile."
+    },
+    {
+        "espanol": "¿Ya calentaste las tortillas?",
+        "zapoteco": "Pa maʼ biʼniʼ calentarluʼ ca tortilla ca la?"
+    },
+    {
+        "espanol": "Necesito ir por azúcar.",
+        "zapoteco": "Naquiiñeʼ chaaʼ chiyubeʼ caadxi azúcar."
+    },
+    {
+        "espanol": "Estoy dando de comer a las gallinas.",
+        "zapoteco": "Nayaʼniʼ nga cudieeʼ ni gó ca gallu ca."
+    },
+    {
+        "espanol": "¿Quieres comer ahora o más tarde?",
+        "zapoteco": "Ñee racaláʼdxiluʼ góluʼ yanna o despué la?"
+    },
+    {
+        "espanol": "Voy a revisar la milpa.",
+        "zapoteco": "Naquiiñeʼ guʼyaʼ chaahuiʼ ca layú ra rigaa maíz."
+    },
+    {
+        "espanol": "Voy a alimentar a los animales.",
+        "zapoteco": "Naa chigudieeʼ ni gó ca maniʼ ca."
+    },
+    {
+        "espanol": "Estoy preparando una sopa.",
+        "zapoteco": "Maʼ cayuneʼ preparar ti sopa."
+    },
+    {
+        "espanol": "¿Quieres un poco de café?",
+        "zapoteco": "Pa racaláʼdxiluʼ guicaaluʼ ti café la?"
+    },
+    {
+        "espanol": "Voy a encender el fogón.",
+        "zapoteco": "Maʼ chiguzaaniʼ estufa que."
+    },
+    {
+        "espanol": "Voy a tender la ropa.",
+        "zapoteco": "Maʼ chigucaaʼ ca lari que."
+    },
+    {
+        "espanol": "Estoy sacando agua del pozo.",
+        "zapoteco": "Naa cabeeʼ nisa ndaaniʼ bizé que."
+    },
+    {
+        "espanol": "Voy a cosechar tomates.",
+        "zapoteco": "Naquiiñeʼ guneʼ cosechar tomate."
+    },
+    {
+        "espanol": "Estoy haciendo mandados.",
+        "zapoteco": "Nabé cayuneʼ recadu."
+    },
+    {
+        "espanol": "Voy a cortar pasto.",
+        "zapoteco": "Naa nga chigucaachiʼ guixi."
+    },
+    {
+        "espanol": "Voy al río por agua.",
+        "zapoteco": "Naa ziaaʼ ra guiiguʼ para guidxelaʼ nisa."
+    },
+    {
+        "espanol": "Estoy barriendo adentro.",
+        "zapoteco": "Nayaʼniʼ barrer ndaaniʼ."
+    },
+    {
+        "espanol": "Voy a planchar la ropa.",
+        "zapoteco": "Maʼ chiguneʼ planchar ca lari que."
+    },
+    {
+        "espanol": "Necesito comprar jabón.",
+        "zapoteco": "Caquiiñeʼ guneʼ comprar xabú."
+    },
+    {
+        "espanol": "Estoy cocinando frijoles.",
+        "zapoteco": "Nayaʼniʼ ca haba."
+    },
+    {
+        "espanol": "Voy a cuidar a los niños.",
+        "zapoteco": "Naa nga chiguuyaʼ ca baʼduhuiiniʼ ca."
+    },
+    {
+        "espanol": "¿Ya está listo el desayuno?",
+        "zapoteco": "Pa maʼ nuu desayunu listu la?"
+    },
+    {
+        "espanol": "Estoy lavando mi ropa.",
+        "zapoteco": "Naa cayuubaʼ lari stinneʼ."
+    },
+    {
+        "espanol": "Voy a comprar pan.",
+        "zapoteco": "Naa ziaaʼ chigutooʼ pan."
+    },
+    {
+        "espanol": "¿Ya limpiaste la mesa?",
+        "zapoteco": "Pa maʼ biʼniʼ chaahuiluʼ mexaʼ ca la?"
+    },
+    {
+        "espanol": "Voy a lavar el carro.",
+        "zapoteco": "Naquiiñeʼ guneʼ lavar carru que."
+    },
+    {
+        "espanol": "Necesito más leña.",
+        "zapoteco": "Caquiiñeʼ jma yaga."
+    },
+    {
+        "espanol": "Voy a encender la fogata.",
+        "zapoteco": "Naa nga chiguzaaniʼ gui."
+    },
+    {
+        "espanol": "¿Puedes ayudarme a limpiar?",
+        "zapoteco": "Ñee zanda gacaneluʼ naa guneʼ limpieza la?"
+    },
+    {
+        "espanol": "Voy a ordenar la cocina.",
+        "zapoteco": "Naquiiñeʼ guneʼ arreglar cocina."
+    },
+    {
+        "espanol": "Voy por flores al jardín.",
+        "zapoteco": "Riaaʼ jardín para guyubiʼ guieʼ."
+    },
+    {
+        "espanol": "Estoy recogiendo basura.",
+        "zapoteco": "Nayaʼniʼ raca recoger basura."
+    },
+    {
+        "espanol": "Voy a pintar la casa.",
+        "zapoteco": "Maʼ chigucaaʼ pintura yoo que."
+    },
+    {
+        "espanol": "Estoy quitando malas hierbas.",
+        "zapoteco": "Nayaʼniʼ guixi malu."
+    },
+    {
+        "espanol": "Voy a alimentar al gato.",
+        "zapoteco": "Naa nga chigudieeʼ ni gó ca gaʼtuʼ ca."
+    },
+    {
+        "espanol": "Estoy arreglando la cama.",
+        "zapoteco": "Nayaʼniʼ cama."
+    },
+    {
+        "espanol": "Voy a lavar las verduras.",
+        "zapoteco": "Naquiiñeʼ guneʼ lavar ca verdura ca."
+    },
+    {
+        "espanol": "¿Puedes traer sal?",
+        "zapoteco": "Ñee zanda chinéluʼ caadxi sal la?"
+    },
+    {
+        "espanol": "Estoy limpiando ventanas.",
+        "zapoteco": "Nayaʼniʼ ca ventana ca."
+    },
+    {
+        "espanol": "Voy a buscar hierbas para té.",
+        "zapoteco": "Naquiiñeʼ guyubiʼ guixi para guneʼ té."
+    },
+    {
+        "espanol": "Estoy cortando madera.",
+        "zapoteco": "Naa nga cuzaaquiʼ yaga."
+    },
+    {
+        "espanol": "¿Puedes llevar esto a la cocina?",
+        "zapoteco": "Pa chinécabe ni ndaaniʼ cocina la?"
+    },
+    {
+        "espanol": "Voy a preparar la cena.",
+        "zapoteco": "Maʼ chiguneʼ preparar guendaró."
+    },
+    {
+        "espanol": "Estoy haciendo mi tarea.",
+        "zapoteco": "cayuneʼ ca tarea stinneʼ."
+    },
+    {
+        "espanol": "Voy al río para lavar.",
+        "zapoteco": "Riaaʼ ra guiiguʼ para guiáʼ."
+    },
+    {
+        "espanol": "Voy a limpiar los zapatos.",
+        "zapoteco": "Naa nga chigucheecheʼ diidxaʼ zapatu."
+    },
+    {
+        "espanol": "Estoy remendando ropa.",
+        "zapoteco": "Naa cayuneʼ chaahuiʼ lari."
+    },
+    {
+        "espanol": "Necesito coser esto.",
+        "zapoteco": "Caquiiñeʼ guneʼ coser ndiʼ."
+    },
+    {
+        "espanol": "Estoy revisando mis plantas.",
+        "zapoteco": "Nayaʼniʼ ca planta stinneʼ."
+    },
+    {
+        "espanol": "Voy a cortar flores.",
+        "zapoteco": "Nabé sicarú ca guieʼ ca."
+    },
+    {
+        "espanol": "Voy a lavar fruta.",
+        "zapoteco": "Naquiiñeʼ guneʼ lavar fruta."
+    },
+    {
+        "espanol": "Estoy arreglando el techo.",
+        "zapoteco": "Maʼ cayuneʼ chaahuiʼ techo stini."
+    },
+    {
+        "espanol": "Voy por medicinas.",
+        "zapoteco": "Naquiiñeʼ guicaaʼ caadxi medicina."
+    },
+    {
+        "espanol": "Estoy sacudiendo los muebles.",
+        "zapoteco": "Nabé sicarú ca mueble que."
+    },
+    {
+        "espanol": "Voy a preparar tamales.",
+        "zapoteco": "Naquiiñeʼ guneʼ preparar tamales."
+    },
+    {
+        "espanol": "¿Ya guardaste las cosas?",
+        "zapoteco": "Ñee maʼ bisaanaluʼ ca cosa ca la?"
+    },
+    {
+        "espanol": "Voy a visitar a un vecino.",
+        "zapoteco": "Maʼ chigannaʼ ti vecinu."
+    },
+    {
+        "espanol": "Necesito más agua potable.",
+        "zapoteco": "Caquiiñeʼ jma nisa gueʼ."
+    },
+    {
+        "espanol": "Estoy organizando mis cosas.",
+        "zapoteco": "Runeʼ organizar ca cosa stinneʼ."
+    },
+    {
+        "espanol": "Voy a barrer el camino.",
+        "zapoteco": "Naquiiñeʼ guneʼ barrer neza."
+    },
+    {
+        "espanol": "Estoy regando las flores.",
+        "zapoteco": "Naa cudieeʼ nisa ca guieʼ ca."
+    },
+    {
+        "espanol": "Voy a comprar verduras.",
+        "zapoteco": "Naquiiñeʼ chigutoocabe verdura."
+    },
+    {
+        "espanol": "Voy a preparar chocolate.",
+        "zapoteco": "Nabé sicarú modo biʼniʼ chocolate."
+    },
+    {
+        "espanol": "Estoy cortando cebollas.",
+        "zapoteco": "Nayaʼniʼ cebolla."
+    },
+    {
+        "espanol": "Voy a revisar mis animales.",
+        "zapoteco": "Naquiiñeʼ guʼyaʼ chaahuiʼ ca maniʼ stinneʼ."
+    },
+    {
+        "espanol": "Estoy limpiando afuera.",
+        "zapoteco": "Nayaʼniʼ limpieza fuera."
+    },
+    {
+        "espanol": "Voy a bañar a los niños.",
+        "zapoteco": "Naquiiñeʼ gusiáʼndaluʼ ca baʼduhuiiniʼ ca."
+    },
+    {
+        "espanol": "Estoy ordenando los libros.",
+        "zapoteco": "Nayaʼniʼ ca libru ca."
+    },
+    {
+        "espanol": "Voy a recoger la ropa mojada.",
+        "zapoteco": "Naquiiñeʼ guicaaʼ ca lari ni maʼ nabidxi que."
+    },
+    {
+        "espanol": "Estoy tomando un descanso.",
+        "zapoteco": "Maʼ zigucheecheʼ diidxaʼ."
+    },
+    {
+        "espanol": "Voy a limpiar el patio.",
+        "zapoteco": "Naa ziaaʼ para guneʼ limpiar patiu."
+    },
+    {
+        "espanol": "Estoy calentando comida.",
+        "zapoteco": "Nayaʼniʼ ca guendaró."
+    },
+    {
+        "espanol": "¿Quieres ayudarme un rato?",
+        "zapoteco": "Pa racala’dxu acane lu naa ti ratu la?"
+    },
+    {
+        "espanol": "Voy a tomar el autobús.",
+        "zapoteco": "Naa ziaaʼ lu autobús."
+    },
+    {
+        "espanol": "Necesito ir al banco.",
+        "zapoteco": "Caquiiñeʼ chaaʼ bancu."
+    },
+    {
+        "espanol": "Voy al supermercado por algunas cosas.",
+        "zapoteco": "Nabé riéʼ supermercadu para guneʼ caadxi cosa."
+    },
+    {
+        "espanol": "Tengo que pagar la luz.",
+        "zapoteco": "Naquiiñeʼ quixeʼ luz."
+    },
+    {
+        "espanol": "Vamos al parque a caminar un rato.",
+        "zapoteco": "Guyé parque que para guzadu ti ratuhuiiniʼ."
+    },
+    {
+        "espanol": "Voy a comprar medicinas a la farmacia.",
+        "zapoteco": "Naa ziaaʼ chigutooʼ medicina ra farmacia."
+    },
+    {
+        "espanol": "¿Quieres ir al cine esta tarde?",
+        "zapoteco": "Pa racaláʼdxiluʼ cheluʼ cine tarde riʼ la?"
+    },
+    {
+        "espanol": "Tengo cita con el dentista hoy.",
+        "zapoteco": "Naquiiñeʼ chuaaʼ né dentista yannadxí."
+    },
+    {
+        "espanol": "Voy al trabajo en bicicleta.",
+        "zapoteco": "Riéʼ dxiiñaʼ lu bicicleta."
+    },
+    {
+        "espanol": "Necesito gasolina para el carro.",
+        "zapoteco": "Caquiiñeʼ gasolina para carru que."
+    },
+    {
+        "espanol": "Vamos a comer a un restaurante.",
+        "zapoteco": "Laadu ziuudu para guidoʼdo ndaaniʼ ti restaurante."
+    },
+    {
+        "espanol": "Estoy esperando un taxi.",
+        "zapoteco": "Nabé cabezaʼ ti taxi."
+    },
+    {
+        "espanol": "Voy a recoger a los niños en la escuela.",
+        "zapoteco": "Naa ziaaʼ chigucaaʼ ca xcuidihuiiniʼ ca ra scuela."
+    },
+    {
+        "espanol": "Tengo que pagar la renta del departamento.",
+        "zapoteco": "Naquiiñeʼ quixeʼ alquiler stiʼ apartamentu que."
+    },
+    {
+        "espanol": "¿Sabes dónde está la panadería?",
+        "zapoteco": "Ñee nannuʼ paraa nuu panadería ca la?"
+    },
+    {
+        "espanol": "Voy a caminar al centro.",
+        "zapoteco": "Naquiiñeʼ guzayaʼ ndaaniʼ guidxi."
+    },
+    {
+        "espanol": "Necesito recargar saldo para mi celular.",
+        "zapoteco": "Naquiiñeʼ guneʼ recargar saldo stiʼ celular stinneʼ."
+    },
+    {
+        "espanol": "Voy al gimnasio en la mañana.",
+        "zapoteco": "Riéʼ gimnasio siadóʼ."
+    },
+    {
+        "espanol": "Tengo que lavar el carro hoy.",
+        "zapoteco": "Naquiiñeʼ guneʼ lavar carru ca yannadxí."
+    },
+    {
+        "espanol": "Voy a pasear al perro por la tarde.",
+        "zapoteco": "Naquiiñeʼ guzayaʼ ra nuu ca maniʼ ca siadóʼ."
+    },
+    {
+        "espanol": "Vamos al mercado por frutas y verduras.",
+        "zapoteco": "Riuudu ra rutoocabe cuananaxhi ne verdura."
+    },
+    {
+        "espanol": "Necesito cambiar un cheque.",
+        "zapoteco": "Naquiiñeʼ guneʼ encajar ti cheque."
+    },
+    {
+        "espanol": "¿Me acompañas al café nuevo?",
+        "zapoteco": "Pa chuʼluʼ ra nuaaʼ ndaaniʼ café cubi ca la?"
+    },
+    {
+        "espanol": "Tengo que comprar ropa nueva.",
+        "zapoteco": "Naquiiñeʼ guneʼ comprar lari cubi."
+    },
+    {
+        "espanol": "Voy a pasar por la lavandería.",
+        "zapoteco": "Naquiiñeʼ guiaanaʼ ra lavandería."
+    },
+    {
+        "espanol": "Necesito comprar un boleto para el concierto.",
+        "zapoteco": "Naquiiñeʼ guneʼ ti boletu para chaaʼ conciertu que."
+    },
+    {
+        "espanol": "Voy a hacer fila en el banco.",
+        "zapoteco": "Naquiiñeʼ guzuhuaaʼ lu fila ra bancu."
+    },
+    {
+        "espanol": "Voy a llevar la basura afuera.",
+        "zapoteco": "Naquiiñeʼ chineʼ basura fuera."
+    },
+    {
+        "espanol": "Necesito arreglar mis lentes.",
+        "zapoteco": "Naquiiñeʼ guneʼ chaahuiʼ anteojo stinneʼ."
+    },
+    {
+        "espanol": "Voy a la biblioteca a estudiar.",
+        "zapoteco": "Riaaʼ biblioteca para guneʼ estudiar."
+    },
+    {
+        "espanol": "Necesito reparar mis zapatos.",
+        "zapoteco": "Caquiiñeʼ guneʼ chaahuiʼ zapatu stinneʼ."
+    },
+    {
+        "espanol": "Voy a sacar copias en la papelería.",
+        "zapoteco": "Naquiiñeʼ guneʼ copia stini ndaaniʼ tienda ra rutoocabe guiʼchiʼ."
+    },
+    {
+        "espanol": "Voy a esperar el metro.",
+        "zapoteco": "Naquiiñeʼ cuézabe metro que."
+    },
+    {
+        "espanol": "¿Quieres ir al museo el domingo?",
+        "zapoteco": "Pa racaláʼdxiluʼ cheluʼ museu domingu la?"
+    },
+    {
+        "espanol": "Estoy atorado en el tráfico.",
+        "zapoteco": "Nabé bidxagayaaʼ ora biiyaʼ tráficu."
+    },
+    {
+        "espanol": "Necesito ir a la ferretería.",
+        "zapoteco": "Naquiiñeʼ chaaʼ ra ferretería."
+    },
+    {
+        "espanol": "Voy a mandar un paquete por correo.",
+        "zapoteco": "Naquiiñeʼ guseendaʼ ti paquete pur correu."
+    },
+    {
+        "espanol": "Tengo una reunión de trabajo.",
+        "zapoteco": "Napaʼ ti reunión de dxiiñaʼ."
+    },
+    {
+        "espanol": "Voy al cajero automático.",
+        "zapoteco": "Naquiiñeʼ cheʼ ra cajero automático."
+    },
+    {
+        "espanol": "Tengo que ir a la estación de policía.",
+        "zapoteco": "Naquiiñeʼ chaaʼ ra comisaría."
+    },
+    {
+        "espanol": "Necesito ir al juzgado por unos papeles.",
+        "zapoteco": "Naquiiñeʼ chaaʼ nezalú justicia para guicaaʼ caadxi guiʼchiʼ."
+    },
+    {
+        "espanol": "¿Te veo en la plaza comercial?",
+        "zapoteco": "Pa guidúʼyanu lii ndaaniʼ ti centru comercial la?"
+    },
+    {
+        "espanol": "Estoy haciendo compras en el mercado.",
+        "zapoteco": "Naa cayuneʼ comprar ndaaniʼ mercadu."
+    },
+    {
+        "espanol": "Tengo que cambiar de autobús aquí.",
+        "zapoteco": "Naquiiñeʼ guchaaʼ autobús raríʼ."
+    },
+    {
+        "espanol": "Vamos a cenar fuera hoy.",
+        "zapoteco": "Laanu ziuunu para guidoʼno gueta yannadxí."
+    },
+    {
+        "espanol": "Voy a cruzar la avenida con cuidado.",
+        "zapoteco": "Naquiiñeʼ tiidiʼ avenida que né cuidadu."
+    },
+    {
+        "espanol": "Necesito pagar mi recibo de agua.",
+        "zapoteco": "Naquiiñeʼ quixeʼ factura stinneʼ de nisa."
+    },
+    {
+        "espanol": "Estoy buscando estacionamiento.",
+        "zapoteco": "Nabé biyubeʼ estacionamientu."
+    },
+    {
+        "espanol": "¿Sabes dónde queda la parada del camión?",
+        "zapoteco": "Ñee nannuʼ paraa nuu parada stiʼ autobús ca la?"
+    },
+    {
+        "espanol": "Tengo que ir a la peluquería.",
+        "zapoteco": "Naquiiñeʼ chaaʼ ra nuu peluquería."
+    },
+    {
+        "espanol": "Necesito ir al registro civil.",
+        "zapoteco": "Naquiiñeʼ chaaʼ ra registru civil."
+    },
+    {
+        "espanol": "Voy al taller mecánico.",
+        "zapoteco": "Naa zeʼ ra tienda stiʼ mecánicu."
+    },
+    {
+        "espanol": "¿Quieres acompañarme al centro histórico?",
+        "zapoteco": "Pa racaláʼdxiluʼ chinéluʼ naa ndaaniʼ centru histórico ca la?"
+    },
+    {
+        "espanol": "Voy a comprar libros en la librería.",
+        "zapoteco": "Naa ziaaʼ chigutooʼ libru ra tienda de libru."
+    },
+    {
+        "espanol": "Estoy en la sala de espera del doctor.",
+        "zapoteco": "Naa nuaaʼ ndaaniʼ sala ra ribeza doctor que."
+    },
+    {
+        "espanol": "Voy a pagar el internet.",
+        "zapoteco": "Naquiiñeʼ guneʼ pagar lu internet."
+    },
+    {
+        "espanol": "Tengo que ir por mi licencia de conducir.",
+        "zapoteco": "Naquiiñeʼ chaaʼ para guicaaʼ licencia stinneʼ."
+    },
+    {
+        "espanol": "¿Vamos al estadio a ver el partido?",
+        "zapoteco": "Pa chuunu estadiu para guidúʼyanu juegu ca la?"
+    },
+    {
+        "espanol": "Estoy sacando dinero del cajero.",
+        "zapoteco": "Nabé ribeeʼ bueltu ndaaniʼ cajero automático."
+    },
+    {
+        "espanol": "Necesito ir a comprar zapatos nuevos.",
+        "zapoteco": "Naquiiñeʼ chaaʼ guneʼ zapatu nacubi."
+    },
+    {
+        "espanol": "Estoy en camino a la oficina.",
+        "zapoteco": "Nabé ziaaʼ ra oficina."
+    },
+    {
+        "espanol": "Voy a tomar un café rápido.",
+        "zapoteco": "Naquiiñeʼ guicaaʼ ti café nagueendaca."
+    },
+    {
+        "espanol": "Estoy haciendo fila para comprar boletos.",
+        "zapoteco": "Zuhuaaʼ lu fila para guneʼ comprar boletu."
+    },
+    {
+        "espanol": "Voy al veterinario con mi gato.",
+        "zapoteco": "Rieʼ ra nuu veterinario né ca gaʼtuʼ stinneʼ."
+    },
+    {
+        "espanol": "Necesito entregar unos documentos.",
+        "zapoteco": "Naquiiñeʼ guneʼ entregar caadxi documentu."
+    },
+    {
+        "espanol": "Estoy revisando mi correo electrónico.",
+        "zapoteco": "Biiyaʼ correu stinneʼ."
+    },
+    {
+        "espanol": "Voy a tomar el tren rápido.",
+        "zapoteco": "Nabé nagueenda riéʼ lu tren ni rizá nagueenda."
+    },
+    {
+        "espanol": "¿Me acompañas a recoger la ropa?",
+        "zapoteco": "Ñee zinéluʼ naa para guicaaluʼ ca lari ca la?"
+    },
+    {
+        "espanol": "Estoy buscando un restaurante económico.",
+        "zapoteco": "Biyubeʼ ti restaurante ni cadi caru."
+    },
+    {
+        "espanol": "Voy a la plaza a comprar regalos.",
+        "zapoteco": "Naa ziaaʼ ra plaza que para chigutooʼ regalu."
+    },
+    {
+        "espanol": "Necesito imprimir estos documentos.",
+        "zapoteco": "Naquiiñeʼ guneʼ imprimir ca documentu riʼ."
+    },
+    {
+        "espanol": "Voy al zoológico con los niños.",
+        "zapoteco": "Naa ziaaʼ ra zoológico né ca xcuidihuiiniʼ."
+    },
+    {
+        "espanol": "Tengo que pagar multas de tránsito.",
+        "zapoteco": "Naquiiñeʼ quixeʼ multa de tráficu."
+    },
+    {
+        "espanol": "Estoy buscando una dirección en mi celular.",
+        "zapoteco": "Biyubeʼ ti dirección lu celular stinneʼ."
+    },
+    {
+        "espanol": "Necesito comprar flores para un cumpleaños.",
+        "zapoteco": "Naquiiñeʼ guneʼ comprar guieʼ para ti cumpleañu."
+    },
+    {
+        "espanol": "Voy a la agencia de viajes por información.",
+        "zapoteco": "Riuaaʼ ra nuu agencia de viaje para guinabaʼ información."
+    },
+    {
+        "espanol": "Estoy llegando tarde al trabajo.",
+        "zapoteco": "Nabé rindaaʼ para chaaʼ dxiiñaʼ."
+    },
+    {
+        "espanol": "Necesito conseguir un taxi rápido.",
+        "zapoteco": "Naquiiñeʼ guicaaʼ ti taxi nagueendaca."
+    },
+    {
+        "espanol": "Estoy enviando un mensaje por WhatsApp.",
+        "zapoteco": "Nayaʼniʼ ruseendaʼ ti mensaje lu WhatsApp."
+    },
+    {
+        "espanol": "Voy a almorzar con mis amigos.",
+        "zapoteco": "Maʼ ziaaʼ gueta né ca xhamiguaʼ."
+    },
+    {
+        "espanol": "Tengo que ir a la tienda por leche.",
+        "zapoteco": "Naquiiñeʼ chaaʼ tienda para guneʼ leche."
+    },
+    {
+        "espanol": "Voy a visitar a un familiar en el hospital.",
+        "zapoteco": "Maʼ ziaaʼ ra nuu ti binnilidxeʼ ni nuu ra hospital."
+    },
+    {
+        "espanol": "Necesito comprar un cargador nuevo.",
+        "zapoteco": "Naquiiñeʼ guneʼ ti cargador nacubi."
+    },
+    {
+        "espanol": "Voy a sacar mi bicicleta del taller.",
+        "zapoteco": "Maʼ chigucaaʼ bicicleta stinneʼ ndaaniʼ tienda que."
+    },
+    {
+        "espanol": "Estoy descargando una aplicación.",
+        "zapoteco": "Maʼ biʼniʼ descargarbe ti aplicación."
+    },
+    {
+        "espanol": "Voy a revisar ofertas en la tienda.",
+        "zapoteco": "Naquiiñeʼ guʼyaʼ chaahuiʼ ca oferta ni nuu ndaaniʼ tienda que."
+    },
+    {
+        "espanol": "Necesito renovar mi identificación.",
+        "zapoteco": "Naquiiñeʼ guneʼ renovar ID stinneʼ."
+    },
+    {
+        "espanol": "Estoy entrando al centro comercial.",
+        "zapoteco": "Maʼ ziuudu ndaaniʼ ti centru comercial."
+    },
+    {
+        "espanol": "Voy a retirar un paquete de paquetería.",
+        "zapoteco": "Naquiiñeʼ guicaaʼ ti paquete de paquete."
+    },
+    {
+        "espanol": "Necesito reportar una fuga de agua.",
+        "zapoteco": "Caquiiñeʼ guneʼ reportar ti fuga de nisa."
+    },
+    {
+        "espanol": "Voy a asistir a un evento cultural.",
+        "zapoteco": "Naquiiñeʼ chuaaʼ lu ti eventu cultural."
+    },
+    {
+        "espanol": "Estoy haciendo ejercicio en el parque.",
+        "zapoteco": "Runeʼ ejerciciu ndaaniʼ parque."
+    },
+    {
+        "espanol": "Necesito reportar mi tarjeta perdida.",
+        "zapoteco": "Naquiiñeʼ guneʼ reportar pa biniteʼ tarjeta stinneʼ."
+    },
+    {
+        "espanol": "Voy a la estación de bomberos.",
+        "zapoteco": "Naa ziaaʼ ra nuu ca bomberu."
+    },
+    {
+        "espanol": "Estoy pagando en la caja registradora.",
+        "zapoteco": "Nayaʼniʼ runeʼ pagar ra caja."
+    },
+    {
+        "espanol": "Necesito apartar cita para cortarme el pelo.",
+        "zapoteco": "Naquiiñeʼ guneʼ ti cita para guiree guicha iqueʼ."
+    },
+    {
+        "espanol": "Voy a la tienda de electrónica.",
+        "zapoteco": "Nabé sicarú tienda ra rutoocabe cosa electrónica."
+    },
+    {
+        "espanol": "Estoy saliendo del estacionamiento.",
+        "zapoteco": "Maʼ bireeʼ de ra estacionamientu que."
+    },
+    {
+        "espanol": "Necesito revisar el recibo de compra.",
+        "zapoteco": "Naquiiñeʼ guʼyaʼ chaahuiʼ recibu stiʼ ni guziéʼ."
+    },
+    {
+        "espanol": "Voy al aeropuerto a recoger a un amigo.",
+        "zapoteco": "Maʼ ziaaʼ aeropuerto para chicaaʼ ti xhamiguaʼ."
+    },
+    {
+        "espanol": "Yo camino al trabajo todos los días.",
+        "zapoteco": "Guiráʼ dxi rizayaʼ para chaaʼ dxiiñaʼ."
+    },
+    {
+        "espanol": "Ella cocina muy rico.",
+        "zapoteco": "Nabé galán runi cocinarbe."
+    },
+    {
+        "espanol": "Nosotros vivimos en la ciudad.",
+        "zapoteco": "Nabézadu ndaaniʼ guidxi."
+    },
+    {
+        "espanol": "Tú aprendes rápido.",
+        "zapoteco": "Nagueendaca riziidiluʼ."
+    },
+    {
+        "espanol": "Ellos juegan fútbol en el parque.",
+        "zapoteco": "Riguítecabe fútbol ndaaniʼ parque que."
+    },
+    {
+        "espanol": "Yo corro cada mañana.",
+        "zapoteco": "Ruxooñeʼ guiráʼ siadóʼ."
+    },
+    {
+        "espanol": "Mi mamá lava la ropa los sábados.",
+        "zapoteco": "Mamá stinneʼ runi lavandería sábadu."
+    },
+    {
+        "espanol": "Tú comes demasiado rápido.",
+        "zapoteco": "Nabé nagueenda ró binni."
+    },
+    {
+        "espanol": "Ellas hablan zapoteco muy bien.",
+        "zapoteco": "Nabé galán riníʼcabe diidxaʼ zapoteco."
+    },
+    {
+        "espanol": "Nosotros escribimos cartas en español.",
+        "zapoteco": "Rucaʼdu carta lu diidxaʼ español."
+    },
+    {
+        "espanol": "Yo duermo ocho horas.",
+        "zapoteco": "Ocho hora rásidu."
+    },
+    {
+        "espanol": "Ustedes compran frutas frescas.",
+        "zapoteco": "Bitoocabe cuananaxhi nacubi."
+    },
+    {
+        "espanol": "Mi hermano estudia medicina.",
+        "zapoteco": "Bicheʼ ruundaʼ de medicina."
+    },
+    {
+        "espanol": "Tú miras televisión todas las noches.",
+        "zapoteco": "Ruuyaluʼ televisión guiráʼ gueelaʼ."
+    },
+    {
+        "espanol": "Ellos venden comida en el mercado.",
+        "zapoteco": "Rutoocabe guendaró ndaaniʼ mercadu."
+    },
+    {
+        "espanol": "Yo escucho música mientras limpio.",
+        "zapoteco": "Rucaadiagaʼ música laga cayuneʼ limpieza."
+    },
+    {
+        "espanol": "Ella abre la tienda temprano.",
+        "zapoteco": "Laabe ruzulube tienda que tempranu."
+    },
+    {
+        "espanol": "Nosotros cerramos la puerta antes de salir.",
+        "zapoteco": "Biseegudu puertaʼ que ante guireedu."
+    },
+    {
+        "espanol": "Tú viajas mucho.",
+        "zapoteco": "Nabé runi viajarluʼ."
+    },
+    {
+        "espanol": "Ellos trabajan hasta tarde.",
+        "zapoteco": "Runi dxiiñaʼ huaxhinni."
+    },
+    {
+        "espanol": "Yo preparo café en la mañana.",
+        "zapoteco": "Runeʼ café siadóʼ."
+    },
+    {
+        "espanol": "Ustedes cantan muy bien.",
+        "zapoteco": "Nabé galán modo ruundaluʼ."
+    },
+    {
+        "espanol": "Él ayuda a sus amigos.",
+        "zapoteco": "Racanebe ca xhamígube."
+    },
+    {
+        "espanol": "Yo compro pan cada tarde.",
+        "zapoteco": "Runeʼ comprar pan guiráʼ siadóʼ."
+    },
+    {
+        "espanol": "Ella habla con sus vecinos.",
+        "zapoteco": "Riníʼnebe ca vecinu stibe."
+    },
+    {
+        "espanol": "Nosotros bebemos agua limpia.",
+        "zapoteco": "Riguʼdu nisa nayá."
+    },
+    {
+        "espanol": "Tú escribes bonito.",
+        "zapoteco": "Nabé sicarú modo rucaaluʼ."
+    },
+    {
+        "espanol": "Ellos esperan el autobús.",
+        "zapoteco": "Laacaʼ cabézacaʼ guiree autobús que."
+    },
+    {
+        "espanol": "Yo visito a mis abuelos cada domingo.",
+        "zapoteco": "Guiráʼ domingu rigannaʼ bixhozegolaʼ ne jñaagolaʼ."
+    },
+    {
+        "espanol": "Él enseña matemáticas en la escuela.",
+        "zapoteco": "Laabe rusiidibe matemática ra scuela."
+    },
+    {
+        "espanol": "Nosotros buscamos un lugar tranquilo.",
+        "zapoteco": "Laadu cuyúbidu ti lugar ra cadi cayaca ridxi."
+    },
+    {
+        "espanol": "Tú descansas después de comer.",
+        "zapoteco": "Riziiláʼdxiluʼ ora maʼ gudóluʼ."
+    },
+    {
+        "espanol": "Ellos arreglan el carro viejo.",
+        "zapoteco": "Biʼniʼ chaahuicabe carru yooxhoʼ que."
+    },
+    {
+        "espanol": "Yo saludo a mis vecinos siempre.",
+        "zapoteco": "Guiráʼ ora rudieeʼ diuxi ca vecinu stinneʼ."
+    },
+    {
+        "espanol": "Ella estudia para su examen.",
+        "zapoteco": "Runi estudiarbe para examen stibe."
+    },
+    {
+        "espanol": "Nosotros pagamos la renta puntual.",
+        "zapoteco": "Rudiʼdu alquiler que ora maʼ caquiiñeʼ."
+    },
+    {
+        "espanol": "Tú usas el celular todo el día.",
+        "zapoteco": "Riquiiñeluʼ celular stiluʼ guidubi dxi."
+    },
+    {
+        "espanol": "Ellos limpian la casa los fines de semana.",
+        "zapoteco": "Rusiácabe yoo ca fin de semana."
+    },
+    {
+        "espanol": "Yo salgo temprano del trabajo hoy.",
+        "zapoteco": "Rireeʼ de dxiiñaʼ tempranu yannadxí."
+    },
+    {
+        "espanol": "Ella compra frutas frescas.",
+        "zapoteco": "Laabe rutoobe cuananaxhi nacubi."
+    },
+    {
+        "espanol": "Nosotros vendemos artesanías.",
+        "zapoteco": "Rutoodu artesanía."
+    },
+    {
+        "espanol": "Tú escribes poemas bonitos.",
+        "zapoteco": "Rucaaluʼ poema sicarú."
+    },
+    {
+        "espanol": "Ellos limpian el patio cada día.",
+        "zapoteco": "Rusiácabe patiu que guiráʼ dxi."
+    },
+    {
+        "espanol": "Yo visito la iglesia los domingos.",
+        "zapoteco": "Rigannaʼ yuʼduʼ ca domingu."
+    },
+    {
+        "espanol": "Él maneja con precaución.",
+        "zapoteco": "Riguítebe carru stibe né cuidadu."
+    },
+    {
+        "espanol": "Nosotros cuidamos las plantas.",
+        "zapoteco": "Laadu nga rápadu ca planta ca."
+    },
+    {
+        "espanol": "Tú ayudas en casa.",
+        "zapoteco": "Laatu racanétu ra lídxitu."
+    },
+    {
+        "espanol": "Ellos suben la montaña el fin de semana.",
+        "zapoteco": "Riécabe lu dani ca fin de semana."
+    },
+    {
+        "espanol": "Yo llamo por teléfono a mi familia.",
+        "zapoteco": "Runeʼ llamar familia stinneʼ pur teléfono."
+    },
+    {
+        "espanol": "Ella barre su habitación todos los días.",
+        "zapoteco": "Guiráʼ dxi ruquiichibe cuartu stibe."
+    },
+    {
+        "espanol": "Nosotros recibimos visitas en casa.",
+        "zapoteco": "Ridxaagaludu binni ni riganna laadu ra lídxidu."
+    },
+    {
+        "espanol": "Tú dibujas animales muy bien.",
+        "zapoteco": "Nabé galán runi dibujarluʼ ca maniʼ ca."
+    },
+    {
+        "espanol": "Ellos pintan las paredes de azul.",
+        "zapoteco": "Biʼniʼ pintarcabe ca muru que color azul."
+    },
+    {
+        "espanol": "Yo compro pan fresco por la tarde.",
+        "zapoteco": "Runeʼ comprar pan nacubi siadóʼ."
+    },
+    {
+        "espanol": "Él camina despacio.",
+        "zapoteco": "Chaahuidugá rizabe."
+    },
+    {
+        "espanol": "Nosotros cortamos fruta para desayunar.",
+        "zapoteco": "Biʼniʼ cortardu cuananaxhi para guidoʼdo gueta."
+    },
+    {
+        "espanol": "Tú cocinas arroz muy sabroso.",
+        "zapoteco": "Nabé sicarú arroz ni rúniluʼ."
+    },
+    {
+        "espanol": "Ellos toman café después de comer.",
+        "zapoteco": "Riguʼbaʼ café despué de gócabe."
+    },
+    {
+        "espanol": "Yo pregunto siempre si necesitan ayuda.",
+        "zapoteco": "Siempre rinabadiidxaʼ laacabe pa caquiiñecabe tu gacané laacabe."
+    },
+    {
+        "espanol": "Ella responde rápido los mensajes.",
+        "zapoteco": "Nagueendaca ricabibe ca mensaje ni ruseendacabe laabe."
+    },
+    {
+        "espanol": "Nosotros compartimos la comida.",
+        "zapoteco": "Riguíxedu guendaró que."
+    },
+    {
+        "espanol": "Tú escribes cartas muy bonitas.",
+        "zapoteco": "Nabé sicarú ca carta ni rucaaluʼ."
+    },
+    {
+        "espanol": "Ellos bailan en las fiestas.",
+        "zapoteco": "Riguítecabe lu ca saa ca."
+    },
+    {
+        "espanol": "Yo canto cuando estoy alegre.",
+        "zapoteco": "Runeʼ cantar ora maʼ nuaaʼ nayecheʼ."
+    },
+    {
+        "espanol": "Él compra verduras frescas en el mercado.",
+        "zapoteco": "Laabe rutoobe verdura nacubi ra mercadu."
+    },
+    {
+        "espanol": "Nosotros vendemos ropa usada.",
+        "zapoteco": "Rutoodu lari ni maʼ biquiiñedu."
+    },
+    {
+        "espanol": "Tú lavas los platos por la noche.",
+        "zapoteco": "Runi lavarluʼ ca platu ca huaxhinni."
+    },
+    {
+        "espanol": "Ellos miran televisión en casa.",
+        "zapoteco": "Ruuyacabe televisión ra lídxicabe."
+    },
+    {
+        "espanol": "Yo descanso en las tardes.",
+        "zapoteco": "Riziiladxeʼ ora maʼ zixhinni."
+    },
+    {
+        "espanol": "Ella ordena la habitación cada mañana.",
+        "zapoteco": "Runi chaahuibe cuartu stibe guiráʼ siadóʼ."
+    },
+    {
+        "espanol": "Nosotros sacamos agua del pozo.",
+        "zapoteco": "Ribeedu nisa ndaaniʼ bizé que."
+    },
+    {
+        "espanol": "Tú guardas bien tus libros.",
+        "zapoteco": "Nabé galán modo rápaluʼ ca libru stiluʼ."
+    },
+    {
+        "espanol": "Ellos revisan la tarea juntos.",
+        "zapoteco": "Juntu ruuyacabe ca tarea ni rúnicabe ra lídxicabe."
+    },
+    {
+        "espanol": "Yo preparo tortillas temprano.",
+        "zapoteco": "Runeʼ preparar tortilla tempranu."
+    },
+    {
+        "espanol": "Ella organiza fiestas familiares.",
+        "zapoteco": "Laabe rúnibe saa para familia stibe."
+    },
+    {
+        "espanol": "Nosotros pintamos la casa en diciembre.",
+        "zapoteco": "Biʼniʼ pintardu yoo que lu beeu diciembre."
+    },
+    {
+        "espanol": "Tú sales temprano al trabajo.",
+        "zapoteco": "Rireeluʼ tempranu para cheluʼ dxiiñaʼ."
+    },
+    {
+        "espanol": "Ellos llegan puntuales siempre.",
+        "zapoteco": "Guiráʼ ora rindácabe ora maʼ nuucabe."
+    },
+    {
+        "espanol": "Yo aprendo algo nuevo cada día.",
+        "zapoteco": "Guiráʼ dxi riziideʼ xiixa ni nacubi."
+    },
+    {
+        "espanol": "Él compra pescado fresco en la tarde.",
+        "zapoteco": "Laabe rutoobe benda nacubi ora maʼ zixhinni."
+    },
+    {
+        "espanol": "Nosotros lavamos frutas antes de comerlas.",
+        "zapoteco": "Riguíbidu ca cuananaxhi ante guidoʼdo cani."
+    },
+    {
+        "espanol": "Tú enseñas español a tus amigos.",
+        "zapoteco": "Rusiidiluʼ diidxaʼ español ca xhamíguluʼ."
+    },
+    {
+        "espanol": "Ellos escriben cuentos en clase.",
+        "zapoteco": "Rucaacabe historia ndaaniʼ clase."
+    },
+    {
+        "espanol": "Yo descanso los domingos.",
+        "zapoteco": "Riziiladxeʼ ca domingu."
+    },
+    {
+        "espanol": "Ella bebe té todas las mañanas.",
+        "zapoteco": "Guiráʼ siadóʼ riguʼbaʼ té."
+    },
+    {
+        "espanol": "Nosotros llevamos comida al campo.",
+        "zapoteco": "Rinédu guendaró ndaaniʼ ca layú ca."
+    },
+    {
+        "espanol": "Tú buscas trabajo en la ciudad.",
+        "zapoteco": "Laatu cuyúbitu dxiiñaʼ ndaaniʼ guidxi."
+    },
+    {
+        "espanol": "Ellos entran rápido a la casa.",
+        "zapoteco": "Nagueendaca riuucabe ndaaniʼ yoo que."
+    },
+    {
+        "espanol": "Yo escucho atentamente tus palabras.",
+        "zapoteco": "Rucaadiagaʼ chaahuiʼ ca diidxaʼ stiluʼ."
+    },
+    {
+        "espanol": "Él abre las ventanas temprano.",
+        "zapoteco": "Bixhélebe ca ventana que tempranu."
+    },
+    {
+        "espanol": "Nosotros cerramos la tienda por la noche.",
+        "zapoteco": "Ruseegudu tienda que huaxhinni."
+    },
+    {
+        "espanol": "Tú recibes cartas frecuentemente.",
+        "zapoteco": "Stale biaje ricaaluʼ carta."
+    },
+    {
+        "espanol": "Ellos limpian sus zapatos cada día.",
+        "zapoteco": "Guiráʼ dxi riguíʼbacabe zapatu stícabe."
+    },
+    {
+        "espanol": "Yo reviso mi correo electrónico.",
+        "zapoteco": "Biiyaʼ correu stinneʼ."
+    },
+    {
+        "espanol": "Ella busca un libro en la biblioteca.",
+        "zapoteco": "Laabe cuyúbibe ti libru ndaaniʼ biblioteca."
+    },
+    {
+        "espanol": "Nosotros pasamos tiempo juntos en casa.",
+        "zapoteco": "Rindaa tiempu para chuʼdu juntu ra lídxidu."
+    },
+    {
+        "espanol": "Tú lavas bien los platos.",
+        "zapoteco": "Biʼniʼ lavarluʼ ca platu ca galán."
+    },
+    {
+        "espanol": "Ellos organizan actividades cada semana.",
+        "zapoteco": "Runi organizarcaʼ xiixa dxiiñaʼ guiráʼ semana."
+    },
+    {
+        "espanol": "Yo enciendo la luz al entrar.",
+        "zapoteco": "Ruzaaniʼ biaaniʼ ora maʼ ziuudu."
+    },
+    {
+        "espanol": "Ella apaga la radio antes de dormir.",
+        "zapoteco": "Bicueezabe radiu que ante gásibe."
+    },
+    {
+        "espanol": "Nosotros miramos el cielo en la noche.",
+        "zapoteco": "Ridúʼyadu guibáʼ huaxhinni."
+    },
+    {
+        "espanol": "Tú recoges fruta del árbol.",
+        "zapoteco": "Riguíxheluʼ cuananaxhi stiʼ yaga ca."
+    },
+    {
+        "espanol": "Ellos disfrutan caminar en las tardes.",
+        "zapoteco": "Nabé riuuláʼdxicabe sacabe ora maʼ zixhinni."
+    },
+    {
+        "espanol": "Yo compro pan fresco cada mañana.",
+        "zapoteco": "Guiráʼ siadóʼ rutooʼ pan nacubi."
+    },
+    {
+        "espanol": "¿Terminaste la tarea?",
+        "zapoteco": "Pa biluxe ca tarea stiluʼ la?"
+    },
+    {
+        "espanol": "La clase empieza a las ocho.",
+        "zapoteco": "Bizulú clase que las ocho."
+    },
+    {
+        "espanol": "No olvides tu cuaderno.",
+        "zapoteco": "Cadi guiaandaʼ lii cuadernu stiluʼ."
+    },
+    {
+        "espanol": "Tengo examen de matemáticas.",
+        "zapoteco": "Napaʼ ti prueba de matemática."
+    },
+    {
+        "espanol": "¿Me prestas tu borrador?",
+        "zapoteco": "Pa guneʼ prestar borrador stiluʼ la?"
+    },
+    {
+        "espanol": "Perdí mi lápiz.",
+        "zapoteco": "Bindaaʼ lápiz stinneʼ."
+    },
+    {
+        "espanol": "¿Entendiste el ejercicio?",
+        "zapoteco": "Pa guiéneluʼ ejerciciu ca la?"
+    },
+    {
+        "espanol": "Vamos al receso.",
+        "zapoteco": "Lagaca receso."
+    },
+    {
+        "espanol": "El maestro explicó muy bien.",
+        "zapoteco": "Nabé galán modo bisiene maestru que naa."
+    },
+    {
+        "espanol": "Tengo que estudiar más.",
+        "zapoteco": "Naquiiñeʼ guneʼ estudiar jma."
+    },
+    {
+        "espanol": "Me fue bien en la prueba.",
+        "zapoteco": "Nabé galán bineʼ lu examen que."
+    },
+    {
+        "espanol": "¿Puedes prestarme tus apuntes?",
+        "zapoteco": "Ñee zanda gudiiluʼ naa ca nota stiluʼ la?"
+    },
+    {
+        "espanol": "No encuentro mi libro.",
+        "zapoteco": "Qué zanda diʼ guidxelaʼ libru stinneʼ."
+    },
+    {
+        "espanol": "La profesora pidió silencio.",
+        "zapoteco": "Gunabaʼ maestru que cadi guiníʼcabe."
+    },
+    {
+        "espanol": "Tengo que presentar un proyecto.",
+        "zapoteco": "Naquiiñeʼ guneʼ presentar ti proyectu."
+    },
+    {
+        "espanol": "Olvidé traer mi mochila.",
+        "zapoteco": "Bisiaandaʼ chineʼ mochila stinneʼ."
+    },
+    {
+        "espanol": "Ya sonó el timbre de salida.",
+        "zapoteco": "Maʼ bicaa ti campana para guiree binni de dxiiñaʼ."
+    },
+    {
+        "espanol": "Necesito ayuda con este problema.",
+        "zapoteco": "Caquiiñeʼ gacanécabe naa lu guendanagana riʼ."
+    },
+    {
+        "espanol": "¿Quieres estudiar conmigo?",
+        "zapoteco": "Pa racaláʼdxiluʼ guni estudiarneluʼ naa la?"
+    },
+    {
+        "espanol": "Mañana no hay clases.",
+        "zapoteco": "Maʼ qué ziuu clase sti dxi."
+    },
+    {
+        "espanol": "Tengo examen mañana temprano.",
+        "zapoteco": "Napaʼ ti examen sti dxi siadóʼ."
+    },
+    {
+        "espanol": "¿Ya hiciste el dibujo?",
+        "zapoteco": "Pa maʼ bíʼniluʼ dibuju ca la?"
+    },
+    {
+        "espanol": "No puedo entender este tema.",
+        "zapoteco": "Qué zanda diʼ guieneʼ tema riʼ."
+    },
+    {
+        "espanol": "Vamos al recreo juntos.",
+        "zapoteco": "Juntu riuudu receso."
+    },
+    {
+        "espanol": "El maestro explicó claramente el tema.",
+        "zapoteco": "Bisiene chaahuiʼ maestru que tema que."
+    },
+    {
+        "espanol": "Mi compañera llegó tarde hoy.",
+        "zapoteco": "Bidxiña xcompañeruaʼ tarde yannadxí."
+    },
+    {
+        "espanol": "Necesito sacar copias de la tarea.",
+        "zapoteco": "Naquiiñeʼ guneʼ copia stiʼ ca tarea ca."
+    },
+    {
+        "espanol": "Hoy toca clase de matemáticas.",
+        "zapoteco": "Yanna riʼ maʼ nuu clase de matemática."
+    },
+    {
+        "espanol": "¿Sabes cuándo son las vacaciones?",
+        "zapoteco": "Ñee nannuʼ pora raca ca saa ca la?"
+    },
+    {
+        "espanol": "Debo repasar para el examen.",
+        "zapoteco": "Naquiiñeʼ guneʼ revisar para guneʼ examen."
+    },
+    {
+        "espanol": "Participé en clase hoy.",
+        "zapoteco": "Bineʼ participar lu clase yannadxí."
+    },
+    {
+        "espanol": "Perdí mi regla y mi sacapuntas.",
+        "zapoteco": "Bindaaʼ regla stinneʼ ne sacalápiz stinneʼ."
+    },
+    {
+        "espanol": "Vamos a la biblioteca a leer.",
+        "zapoteco": "Guyé ra biblioteca para guʼndaʼ."
+    },
+    {
+        "espanol": "Ya entregué mi trabajo final.",
+        "zapoteco": "Maʼ bidieeʼ últimu proyectu stinneʼ."
+    },
+    {
+        "espanol": "El director nos felicitó.",
+        "zapoteco": "Biʼniʼ felicitar director que laadu."
+    },
+    {
+        "espanol": "Hoy entregaron las calificaciones.",
+        "zapoteco": "Yannadxí maʼ bidiicabe ca calificación que."
+    },
+    {
+        "espanol": "Olvidé el examen de historia.",
+        "zapoteco": "Bisiaandaʼ prueba de historia que."
+    },
+    {
+        "espanol": "El profesor revisó nuestras tareas.",
+        "zapoteco": "Biiyaʼ maestru que ca tarea stidu."
+    },
+    {
+        "espanol": "Debo comprar una libreta nueva.",
+        "zapoteco": "Naquiiñeʼ guneʼ ti cuadernu nacubi."
+    },
+    {
+        "espanol": "Mi grupo hizo un buen trabajo.",
+        "zapoteco": "Nabé galán dxiiñaʼ biʼniʼ grupu stinneʼ."
+    },
+    {
+        "espanol": "¿Puedes ayudarme a estudiar?",
+        "zapoteco": "Ñee zanda gacaneluʼ naa guneʼ estudiar la?"
+    },
+    {
+        "espanol": "Llegué temprano a la escuela hoy.",
+        "zapoteco": "Bidxiñaʼ tempranu ra scuela yannadxí."
+    },
+    {
+        "espanol": "La clase estuvo muy interesante.",
+        "zapoteco": "Nabé guyuuladxeʼ clase que."
+    },
+    {
+        "espanol": "El recreo es a las diez.",
+        "zapoteco": "Receso nga chii hora."
+    },
+    {
+        "espanol": "Tengo reunión esta tarde.",
+        "zapoteco": "Nuaaʼ ti reunión tarde riʼ."
+    },
+    {
+        "espanol": "Llegué puntual al trabajo.",
+        "zapoteco": "Bidxiñaʼ ra dxiiñaʼ que ora."
+    },
+    {
+        "espanol": "Necesito imprimir el reporte.",
+        "zapoteco": "Caquiiñeʼ guneʼ imprimir informe ca."
+    },
+    {
+        "espanol": "¿Ya enviaste el correo electrónico?",
+        "zapoteco": "Pa maʼ biseendaluʼ correu electrónicu ca la?"
+    },
+    {
+        "espanol": "Mi jefe pidió este documento urgente.",
+        "zapoteco": "Jefe stinneʼ gunabaʼ documentu riʼ nagueendaca."
+    },
+    {
+        "espanol": "Voy a tomar vacaciones la próxima semana.",
+        "zapoteco": "Maʼ ziaaʼ de vacación sti semana ca."
+    },
+    {
+        "espanol": "¿Puedes cubrir mi turno mañana?",
+        "zapoteco": "Ñee zanda guʼnuʼ turnu stinneʼ sti dxi la?"
+    },
+    {
+        "espanol": "Estoy terminando el informe.",
+        "zapoteco": "Maʼ biluxe informe que."
+    },
+    {
+        "espanol": "Necesito ayuda con este trabajo.",
+        "zapoteco": "Caquiiñeʼ gacanécabe naa lu dxiiñaʼ riʼ."
+    },
+    {
+        "espanol": "Voy a almorzar temprano hoy.",
+        "zapoteco": "Naquiiñeʼ guicaaʼ ti guendaró tempranu yannadxí."
+    },
+    {
+        "espanol": "Hay mucha carga de trabajo ahora.",
+        "zapoteco": "Nabé stale dxiiñaʼ nuu yanna."
+    },
+    {
+        "espanol": "Estoy esperando al cliente.",
+        "zapoteco": "Nabé cabezaʼ cliente que."
+    },
+    {
+        "espanol": "Necesito hacer una llamada importante.",
+        "zapoteco": "Naquiiñeʼ guneʼ ti llamada risaca."
+    },
+    {
+        "espanol": "Llegué tarde por el tráfico.",
+        "zapoteco": "Bidxiñaʼ tarde purtiʼ nabé stale carru."
+    },
+    {
+        "espanol": "Debo entregar este proyecto hoy.",
+        "zapoteco": "Naquiiñeʼ gudieeʼ proyectu riʼ yannadxí."
+    },
+    {
+        "espanol": "Mañana salgo temprano del trabajo.",
+        "zapoteco": "Maʼ huadxí rireeʼ de dxiiñaʼ tempranu."
+    },
+    {
+        "espanol": "Tengo que revisar estos documentos.",
+        "zapoteco": "Naquiiñeʼ guʼyaʼ chaahuiʼ ca documentu riʼ."
+    },
+    {
+        "espanol": "Se averió la impresora nuevamente.",
+        "zapoteco": "Biaba impresora que sti biaje."
+    },
+    {
+        "espanol": "La computadora no enciende.",
+        "zapoteco": "Computadora ca maʼ bizulú biquiiñeʼ ni."
+    },
+    {
+        "espanol": "¿Alguien vio mis llaves?",
+        "zapoteco": "Ñee nuu tu biiyaʼ ca llave stinneʼ la?"
+    },
+    {
+        "espanol": "El jefe me llamó hace rato.",
+        "zapoteco": "Maʼ xadxí de bicaa ridxi jefe que naa."
+    },
+    {
+        "espanol": "¿Puedes cubrir mi turno mañana?",
+        "zapoteco": "Ñee zanda guʼnuʼ turnu stinneʼ sti dxi la?"
+    },
+    {
+        "espanol": "Necesito más tiempo para terminar.",
+        "zapoteco": "Caquiiñeʼ jma tiempu para guiluxeʼ."
+    },
+    {
+        "espanol": "Hoy estaré en la oficina hasta tarde.",
+        "zapoteco": "Zadxiñaʼ ra oficina huaxhinni yannadxí."
+    },
+    {
+        "espanol": "Voy a organizar mis archivos.",
+        "zapoteco": "Naquiiñeʼ guneʼ organizar ca archivu stinneʼ."
+    },
+    {
+        "espanol": "Recibimos mercancía nueva hoy.",
+        "zapoteco": "Bicaadiágadu mercancía nacubi yannadxí."
+    },
+    {
+        "espanol": "Ya envié el correo electrónico.",
+        "zapoteco": "Maʼ biseendaʼ correu que."
+    },
+    {
+        "espanol": "El pago será mañana.",
+        "zapoteco": "Pago zaca ni sti dxi."
+    },
+    {
+        "espanol": "Necesito hablar contigo en privado.",
+        "zapoteco": "Caquiiñeʼ guiniéʼ né lii privadu."
+    },
+    {
+        "espanol": "El cliente pidió una factura.",
+        "zapoteco": "Gunabaʼ cliente que laabe ti factura."
+    },
+    {
+        "espanol": "Hoy tenemos capacitación en la tarde.",
+        "zapoteco": "Yanna riʼ nápanu entrenamientu siadóʼ."
+    },
+    {
+        "espanol": "Estoy revisando el inventario.",
+        "zapoteco": "Ni ruuyaʼ nga inventario."
+    },
+    {
+        "espanol": "¿Ya firmaste el documento?",
+        "zapoteco": "Pa maʼ biʼniʼ firmarluʼ documentu ca la?"
+    },
+    {
+        "espanol": "Voy a solicitar vacaciones.",
+        "zapoteco": "Naquiiñeʼ guinabaʼ vacación."
+    },
+    {
+        "espanol": "¿Puedes traer café a la oficina?",
+        "zapoteco": "Pa chinéluʼ café ra oficina la?"
+    },
+    {
+        "espanol": "Estoy revisando los pendientes.",
+        "zapoteco": "Ni cayuuyaʼ nga ca cosa ni nuu pendiente."
+    },
+    {
+        "espanol": "Necesito cambiar mi horario laboral.",
+        "zapoteco": "Naquiiñeʼ guchaaʼ horariu stinneʼ de dxiiñaʼ."
+    },
+    {
+        "espanol": "El jefe está en reunión.",
+        "zapoteco": "Jefe que nuu lu ti reunión."
+    },
+    {
+        "espanol": "¿Puedes atender al cliente?",
+        "zapoteco": "Pa guni servirluʼ cliente ca la?"
+    },
+    {
+        "espanol": "Necesito salir temprano hoy.",
+        "zapoteco": "Caquiiñeʼ guireeʼ tempranu yannadxí."
+    },
+    {
+        "espanol": "El internet no funciona bien.",
+        "zapoteco": "Cadi jneza diʼ modo runi internet dxiiñaʼ."
+    },
+    {
+        "espanol": "Estoy en una videollamada.",
+        "zapoteco": "Nabé bidxagayaaʼ ora biiyaʼ ti videollamada."
+    },
+    {
+        "espanol": "Debemos entregar esto rápido.",
+        "zapoteco": "Naquiiñeʼ gudiʼnu ni nagueendaca."
+    },
+    {
+        "espanol": "La impresora se quedó sin tinta.",
+        "zapoteco": "Biluxe tinta stiʼ impresora que."
+    },
+    {
+        "espanol": "Estoy esperando confirmación del pedido.",
+        "zapoteco": "Ne cabezaʼ gaca confirmar orden que."
+    },
+    {
+        "espanol": "Tengo cita con el contador mañana.",
+        "zapoteco": "Naquiiñeʼ gapaʼ ti cita né contable sti dxi."
+    },
+    {
+        "espanol": "Necesito organizar mejor mi tiempo.",
+        "zapoteco": "Naquiiñeʼ guneʼ organizar tiempu stinneʼ jma jneza."
+    },
+    {
+        "espanol": "Hoy fue un día muy pesado.",
+        "zapoteco": "Nabé nagana guca dxi riʼ."
+    },
+    {
+        "espanol": "¿Puedo usar tu computadora?",
+        "zapoteco": "Pa iquiiñeluʼ computadora stiluʼ la?"
+    },
+    {
+        "espanol": "Perdí mis documentos importantes.",
+        "zapoteco": "Bindaaʼ ca documentu risaca stinneʼ."
+    },
+    {
+        "espanol": "Debemos cumplir con la fecha límite.",
+        "zapoteco": "Naquiiñeʼ gúninu ni ná fecha límite ca."
+    },
+    {
+        "espanol": "No olvides apagar la luz al salir.",
+        "zapoteco": "Cadi guiaandaʼ lii gucueezaluʼ biaaniʼ ca ora maʼ zigucheecheluʼ diidxaʼ."
+    },
+    {
+        "espanol": "Necesitamos comprar más papel.",
+        "zapoteco": "Naquiiñeʼ siʼnu jma guiʼchiʼ."
+    },
+    {
+        "espanol": "¿Puedes verificar este dato?",
+        "zapoteco": "Pa guʼnuʼ verificar ca datu riʼ la?"
+    },
+    {
+        "espanol": "Mañana debo asistir a una conferencia.",
+        "zapoteco": "Maʼ huadxí napaʼ xidé chaaʼ ti conferencia."
+    },
+    {
+        "espanol": "Necesitamos más información sobre eso.",
+        "zapoteco": "Caquiiñenu jma información de laani."
+    },
+    {
+        "espanol": "Estoy revisando mis notas.",
+        "zapoteco": "Runeʼ revisar ca nota stinneʼ."
+    },
+    {
+        "espanol": "Voy a tomar un descanso breve.",
+        "zapoteco": "Naquiiñeʼ guicaaʼ ti descansu huiiniʼ."
+    },
+    {
+        "espanol": "El trabajo quedó muy bien hecho.",
+        "zapoteco": "Nabé galán modo guca dxiiñaʼ que."
+    },
+    {
+        "espanol": "Necesitamos solucionar este problema pronto.",
+        "zapoteco": "Naquiiñeʼ guni chaahuinu guendanagana riʼ nagueendaca."
+    },
+    {
+        "espanol": "Hoy trabajé mucho y estoy cansado.",
+        "zapoteco": "Nabé bineʼ dxiiñaʼ yannadxí ne maʼ bidxagayaaʼ."
+    },
+    {
+        "espanol": "Ya resolví el asunto pendiente.",
+        "zapoteco": "Maʼ bineʼ chaahuiʼ guendanagana ni nuu pendiente que."
+    },
+    {
+        "espanol": "Este documento tiene errores.",
+        "zapoteco": "Documentu riʼ napa ni error."
+    },
+    {
+        "espanol": "¿Puedes firmar aquí, por favor?",
+        "zapoteco": "Ñee zanda gucaaluʼ firmar raríʼ la?"
+    },
+    {
+        "espanol": "Necesito guardar estos documentos.",
+        "zapoteco": "Naquiiñeʼ gucaaʼ ca documentu riʼ."
+    },
+    {
+        "espanol": "Voy a llegar un poco tarde mañana.",
+        "zapoteco": "Maʼ ziaaʼ ti ratuhuiiniʼ sti dxi."
+    },
+    {
+        "espanol": "Mañana tenemos una visita importante.",
+        "zapoteco": "Maʼ huadxí nápanu ti visita risaca."
+    },
+    {
+        "espanol": "Ya revisé todas las tareas pendientes.",
+        "zapoteco": "Maʼ biiyaʼ guiráʼ ca dxiiñaʼ ni caʼruʼ gaca."
+    },
+    {
+        "espanol": "Terminamos justo a tiempo.",
+        "zapoteco": "Binduuxenu ni oraqueca."
+    },
+    {
+        "espanol": "¿Cuánto cuesta esto?",
+        "zapoteco": "Pabiáʼ nga risaca ndiʼ yaʼ."
+    },
+    {
+        "espanol": "¿Tiene más barato?",
+        "zapoteco": "Pa nápaluʼ ti cosa jma baratu la?"
+    },
+    {
+        "espanol": "Dame un kilo de manzanas.",
+        "zapoteco": "Bidii naa ti kilo manzana."
+    },
+    {
+        "espanol": "¿Acepta tarjeta?",
+        "zapoteco": "Pa guicaaluʼ tarjeta la?"
+    },
+    {
+        "espanol": "Solo tengo efectivo.",
+        "zapoteco": "Efectivo si napaʼ."
+    },
+    {
+        "espanol": "¿A qué hora cierra la tienda?",
+        "zapoteco": "Ora maʼ ziluxe tienda ca la?"
+    },
+    {
+        "espanol": "Está muy caro.",
+        "zapoteco": "Nabé caru ni."
+    },
+    {
+        "espanol": "¿Me lo puede rebajar?",
+        "zapoteco": "Ñee zanda gucueezaluʼ ni para naa la?"
+    },
+    {
+        "espanol": "¿Cuánto vale la bolsa de azúcar?",
+        "zapoteco": "Pabiáʼ risaca ti bolsa de azúcar la?"
+    },
+    {
+        "espanol": "Necesito cambio para este billete.",
+        "zapoteco": "Caquiiñeʼ guchaaʼ para proyectu riʼ."
+    },
+    {
+        "espanol": "Estoy buscando zapatos cómodos.",
+        "zapoteco": "Nabé ruyubeʼ zapatu ni galán."
+    },
+    {
+        "espanol": "¿Tiene de otro color?",
+        "zapoteco": "Pa nápaluʼ sti color la?"
+    },
+    {
+        "espanol": "Me llevo esto.",
+        "zapoteco": "Naa nga zineʼ ni."
+    },
+    {
+        "espanol": "¿Puedo probarme esta ropa?",
+        "zapoteco": "Ñee zanda guneʼ prueba ca lari riʼ la?"
+    },
+    {
+        "espanol": "¿Tiene talla más grande?",
+        "zapoteco": "Pa nápaluʼ ti tamañu jma naroʼbaʼ la?"
+    },
+    {
+        "espanol": "¿Dónde puedo pagar?",
+        "zapoteco": "Paraa zanda quixeʼ yaʼ."
+    },
+    {
+        "espanol": "Necesito una bolsa, por favor.",
+        "zapoteco": "Caquiiñeʼ ti bolsa, pur favor."
+    },
+    {
+        "espanol": "¿Hasta qué hora abre hoy?",
+        "zapoteco": "Hasta xi hora raca abrir ni yannadxí yaʼ."
+    },
+    {
+        "espanol": "Estoy buscando algo barato.",
+        "zapoteco": "Nabé ruyubeʼ xiixa ni baratu."
+    },
+    {
+        "espanol": "¿Cuánto cuestan las tortillas?",
+        "zapoteco": "Pa guiaxa ca tortilla ca la?"
+    },
+    {
+        "espanol": "Necesito medio kilo de carne.",
+        "zapoteco": "Caquiiñeʼ galaa kilo beela."
+    },
+    {
+        "espanol": "Me llevo estas verduras.",
+        "zapoteco": "Nayaʼniʼ ca verdura riʼ."
+    },
+    {
+        "espanol": "¿Cuánto vale ese sombrero?",
+        "zapoteco": "Cumu nabé risaca sombreru que la?"
+    },
+    {
+        "espanol": "¿Tiene frutas frescas hoy?",
+        "zapoteco": "Pa nápaluʼ cuananaxhi nacubi yanna la?"
+    },
+    {
+        "espanol": "¿Dónde venden pan?",
+        "zapoteco": "Paraa rutoocabe pan yaʼ."
+    },
+    {
+        "espanol": "Dame cinco pesos de cilantro.",
+        "zapoteco": "Bidii naa gaayuʼ peso de cilantro."
+    },
+    {
+        "espanol": "¿Tiene azúcar?",
+        "zapoteco": "Pa nápanu azucre la?"
+    },
+    {
+        "espanol": "¿Este pan es de hoy?",
+        "zapoteco": "Pan riʼ de yanna la?"
+    },
+    {
+        "espanol": "Quiero una docena de huevos.",
+        "zapoteco": "Racaladxeʼ ti docena de huevu."
+    },
+    {
+        "espanol": "Dame una botella de agua.",
+        "zapoteco": "Bidii naa ti botella nisa."
+    },
+    {
+        "espanol": "Necesito aceite para cocinar.",
+        "zapoteco": "Caquiiñeʼ aceite para guneʼ guendaró."
+    },
+    {
+        "espanol": "¿Vendes tortillas hechas a mano?",
+        "zapoteco": "Pa gutoocabe tortilla ni bizáʼcabe né nácabe la?"
+    },
+    {
+        "espanol": "Dame tres piezas de pan.",
+        "zapoteco": "Bidii naa chonna ndaa pan."
+    },
+    {
+        "espanol": "¿Tiene cambio de un billete grande?",
+        "zapoteco": "Pa nápaluʼ cambiu para ti factura naroʼbaʼ la?"
+    },
+    {
+        "espanol": "¿Dónde puedo comprar un cargador?",
+        "zapoteco": "Pa zanda guidxela binni ti carga la?"
+    },
+    {
+        "espanol": "Necesito comprar arroz.",
+        "zapoteco": "Caquiiñeʼ guneʼ arroz."
+    },
+    {
+        "espanol": "¿Hay ofertas hoy?",
+        "zapoteco": "Pa nuu xiixa trato yanna la?"
+    },
+    {
+        "espanol": "Estoy comparando precios.",
+        "zapoteco": "Ni cayuneʼ comparar nga ca preciu."
+    },
+    {
+        "espanol": "Dame dos litros de leche.",
+        "zapoteco": "Bidii naa chupa litru leche."
+    },
+    {
+        "espanol": "Necesito jabón para lavar ropa.",
+        "zapoteco": "Caquiiñeʼ xabú para guiáʼ lari."
+    },
+    {
+        "espanol": "¿Cuánto vale este vestido?",
+        "zapoteco": "Pabiáʼ risaca vestidu riʼ la?"
+    },
+    {
+        "espanol": "Dame cuatro tomates.",
+        "zapoteco": "Bidii naa tapa tomate."
+    },
+    {
+        "espanol": "¿Vende flores frescas?",
+        "zapoteco": "Pa gutoocabe guieʼ nacubi la?"
+    },
+    {
+        "espanol": "¿Tiene azúcar morena?",
+        "zapoteco": "Pa nápaluʼ azúcar marrón la?"
+    },
+    {
+        "espanol": "Dame una barra de jabón.",
+        "zapoteco": "Bidii naa ti barra de jabón."
+    },
+    {
+        "espanol": "¿Vende verduras frescas?",
+        "zapoteco": "Pa gutooluʼ verdura nacubi la?"
+    },
+    {
+        "espanol": "¿Cuánto por todo esto?",
+        "zapoteco": "Pabiáʼ nga guiráʼ ndiʼ yaʼ."
+    },
+    {
+        "espanol": "Quiero comprar frutas de temporada.",
+        "zapoteco": "Racaladxeʼ guneʼ comprar ca cuananaxhi ni nuu tiempu."
+    },
+    {
+        "espanol": "¿Me puede dar descuento?",
+        "zapoteco": "Pa gudiiluʼ naa ti descuentu la?"
+    },
+    {
+        "espanol": "Busco zapatos cómodos.",
+        "zapoteco": "Nabé ruyubeʼ zapatu ni galán."
+    },
+    {
+        "espanol": "Dame dos litros de leche.",
+        "zapoteco": "Bidii naa chupa litru leche."
+    },
+    {
+        "espanol": "¿Por dónde está la estación del autobús?",
+        "zapoteco": "Pa nuu estación de autobús ca la?"
+    },
+    {
+        "espanol": "¿A qué hora pasa el camión?",
+        "zapoteco": "Xi hora ridiʼdiʼ camión que yaʼ."
+    },
+    {
+        "espanol": "Necesito llegar al centro.",
+        "zapoteco": "Caquiiñeʼ chaaʼ ndaaniʼ guidxi."
+    },
+    {
+        "espanol": "¿Dónde está la farmacia más cercana?",
+        "zapoteco": "Pa nuu ti farmacia jma gaxha la?"
+    },
+    {
+        "espanol": "Necesito tomar el metro.",
+        "zapoteco": "Naquiiñeʼ guicaaʼ metro."
+    },
+    {
+        "espanol": "¿En qué dirección va este autobús?",
+        "zapoteco": "Xi dirección zeʼ autobús riʼ yaʼ."
+    },
+    {
+        "espanol": "¿Dónde queda la salida?",
+        "zapoteco": "Paraa nuu salida ca yaʼ."
+    },
+    {
+        "espanol": "¿Hay baño cerca?",
+        "zapoteco": "Pa nuu ti bañu gaxha de raqué la?"
+    },
+    {
+        "espanol": "Estoy buscando un cajero automático.",
+        "zapoteco": "Nabé ruyubeʼ ti cajero automático."
+    },
+    {
+        "espanol": "¿Dónde puedo tomar un taxi?",
+        "zapoteco": "Paraa zanda guidxelaʼ ti taxi yaʼ."
+    },
+    {
+        "espanol": "¿Sabes si pasa el camión aquí?",
+        "zapoteco": "Ñee nannuʼ pa ridiʼdiʼ camión ca raríʼ la?"
+    },
+    {
+        "espanol": "¿Esta calle llega al mercado?",
+        "zapoteco": "Pa chindá calle riʼ ra nuu mercadu la?"
+    },
+    {
+        "espanol": "Necesito cruzar la avenida.",
+        "zapoteco": "Naquiiñeʼ tiideʼ lu avenida que."
+    },
+    {
+        "espanol": "¿Por dónde voy al hospital?",
+        "zapoteco": "Pa guiaanaʼ ra hospital la?"
+    },
+    {
+        "espanol": "¿Dónde puedo estacionar?",
+        "zapoteco": "Paraa zanda guzuhuaaʼ yaʼ."
+    },
+    {
+        "espanol": "Necesito ayuda para cruzar la calle.",
+        "zapoteco": "Caquiiñeʼ gacanécabe naa para tiideʼ lu calle."
+    },
+    {
+        "espanol": "¿Dónde está la entrada principal?",
+        "zapoteco": "Pa nuu entrada principal ca la?"
+    },
+    {
+        "espanol": "¿Este autobús llega al centro?",
+        "zapoteco": "Pa cheʼ autobús riʼ ndaaniʼ guidxi la?"
+    },
+    {
+        "espanol": "¿Dónde venden boletos?",
+        "zapoteco": "Paraa rutoocabe boletu yaʼ."
+    },
+    {
+        "espanol": "¿Cuándo sale el próximo camión?",
+        "zapoteco": "Ora maʼ ziguxooñeʼ sti camión que la?"
+    },
+    {
+        "espanol": "Hay mucho tráfico hoy.",
+        "zapoteco": "Nabé stale binni rizá yanna."
+    },
+    {
+        "espanol": "El semáforo está en rojo.",
+        "zapoteco": "Semaforo que nabé naxiñáʼ ni."
+    },
+    {
+        "espanol": "El autobús viene lleno.",
+        "zapoteco": "Nabé dxaʼ autobús que."
+    },
+    {
+        "espanol": "Perdí el autobús.",
+        "zapoteco": "Bindaaʼ autobús que."
+    },
+    {
+        "espanol": "La tienda está cerrada.",
+        "zapoteco": "Tienda que maʼ bichii."
+    },
+    {
+        "espanol": "El mercado está lleno hoy.",
+        "zapoteco": "Nabé dxaʼ binni ndaaniʼ mercadu ca yanna."
+    },
+    {
+        "espanol": "Me robaron mi cartera.",
+        "zapoteco": "Biʼniʼ robarcabe cartera stinneʼ."
+    },
+    {
+        "espanol": "Necesito llamar a alguien.",
+        "zapoteco": "Naquiiñeʼ guiniéʼ né tuuxa."
+    },
+    {
+        "espanol": "Voy rápido, regreso pronto.",
+        "zapoteco": "Nagueenda ziaaʼ, nagueendaca zabiguetaʼ."
+    },
+    {
+        "espanol": "Está muy lejos, voy en taxi.",
+        "zapoteco": "Nabé zitu nuu ni, ziaaʼ lu taxi."
+    },
+    {
+        "espanol": "Las calles están sucias hoy.",
+        "zapoteco": "Nabé nabiidiʼ ca calle ca yanna."
+    },
+    {
+        "espanol": "Hay mucha gente esperando.",
+        "zapoteco": "Nuu stale binni ni cabeza."
+    },
+    {
+        "espanol": "Necesito llegar al trabajo rápido.",
+        "zapoteco": "Naquiiñeʼ chaaʼ dxiiñaʼ nagueendaca."
+    },
+    {
+        "espanol": "Hoy hace mucho calor en la ciudad.",
+        "zapoteco": "Nabé nananda ndaaniʼ guidxi ca yanna."
+    },
+    {
+        "espanol": "¿Sabes cómo llegar al centro?",
+        "zapoteco": "Pa nánnaluʼ ximodo chindáluʼ ra nuu centru ca la?"
+    },
+    {
+        "espanol": "Necesito reparar mi celular.",
+        "zapoteco": "Naquiiñeʼ guneʼ chaahuiʼ celular stinneʼ."
+    },
+    {
+        "espanol": "Estoy esperando en la esquina.",
+        "zapoteco": "Nabé cabezaʼ lu esquina."
+    },
+    {
+        "espanol": "No encuentro estacionamiento.",
+        "zapoteco": "Qué zanda diʼ guidxelaʼ estacionamientu."
+    },
+    {
+        "espanol": "El banco está cerrado hoy.",
+        "zapoteco": "Bancu que maʼ bicueezacabe ni yanna."
+    },
+    {
+        "espanol": "Hay manifestación en la calle principal.",
+        "zapoteco": "Nuu ti demostración ndaaniʼ calle principal."
+    },
+    {
+        "espanol": "Necesito sacar dinero del banco.",
+        "zapoteco": "Caquiiñeʼ cueeʼ bueltu ndaaniʼ bancu."
+    },
+    {
+        "espanol": "Voy tarde a mi cita.",
+        "zapoteco": "Nabé rindaaʼ para cita stinneʼ."
+    },
+    {
+        "espanol": "La panadería ya cerró.",
+        "zapoteco": "Maʼ bicueezacabe panadería que."
+    },
+    {
+        "espanol": "Mi tarjeta no funciona.",
+        "zapoteco": "Tarjeta stinneʼ maʼ qué runi dxiiñaʼ."
+    },
+    {
+        "espanol": "Está lloviendo, no traje paraguas.",
+        "zapoteco": "Nabé cayaba nisaguié, qué ninéʼ paraguas."
+    },
+    {
+        "espanol": "¿Dónde puedo comer barato?",
+        "zapoteco": "Paraa zanda guidoʼdo baratu yaʼ."
+    },
+    {
+        "espanol": "Tengo que pasar por el supermercado.",
+        "zapoteco": "Naquiiñeʼ gucueezaʼ naa ra supermercadu."
+    },
+    {
+        "espanol": "La calle está bloqueada.",
+        "zapoteco": "Calle que maʼ bicueezacabe ni."
+    },
+    {
+        "espanol": "La farmacia ya cerró.",
+        "zapoteco": "Maʼ bicueezacabe farmacia que."
+    },
+    {
+        "espanol": "Voy a esperar aquí afuera.",
+        "zapoteco": "Naquiiñeʼ cuézaluʼ fuera raríʼ."
+    },
+    {
+        "espanol": "Necesito regresar rápido a casa.",
+        "zapoteco": "Naquiiñeʼ guibiguetaʼ ralidxeʼ nagueendaca."
+    },
+    {
+        "espanol": "Necesito ir al doctor.",
+        "zapoteco": "Naquiiñeʼ chaaʼ ra nuu doctor."
+    },
+    {
+        "espanol": "Me siento mal desde ayer.",
+        "zapoteco": "Nabé feu modo bineʼ sentir dede dxiqué."
+    },
+    {
+        "espanol": "Tengo una cita médica hoy.",
+        "zapoteco": "Napaʼ cita ra nuu doctor yannadxí."
+    },
+    {
+        "espanol": "¿Dónde está la clínica más cercana?",
+        "zapoteco": "Pa nuu clínica jma gaxha la?"
+    },
+    {
+        "espanol": "Necesito una consulta urgente.",
+        "zapoteco": "Caquiiñeʼ ti consulta nagueendaca."
+    },
+    {
+        "espanol": "Me duele la cabeza.",
+        "zapoteco": "Nabé naná nuu iqueʼ."
+    },
+    {
+        "espanol": "Mi hijo tiene fiebre.",
+        "zapoteco": "Xiiñeʼ napa fiebre."
+    },
+    {
+        "espanol": "Tengo tos y gripe.",
+        "zapoteco": "Nabé napaʼ tos ne gripe."
+    },
+    {
+        "espanol": "¿Cuánto cuesta la consulta?",
+        "zapoteco": "Pa guiaxa consulta ca la?"
+    },
+    {
+        "espanol": "Necesito medicina para el dolor.",
+        "zapoteco": "Caquiiñeʼ medicina para guiandaʼ."
+    },
+    {
+        "espanol": "Estoy esperando al doctor.",
+        "zapoteco": "Naa cabeza doctor que."
+    },
+    {
+        "espanol": "Tengo dolor de muela.",
+        "zapoteco": "Nabé naná diente stinneʼ."
+    },
+    {
+        "espanol": "Necesito ir al dentista.",
+        "zapoteco": "Naquiiñeʼ chaaʼ ra nuu dentista."
+    },
+    {
+        "espanol": "¿La farmacia está abierta hoy?",
+        "zapoteco": "Pa guiree farmacia ca yanna la?"
+    },
+    {
+        "espanol": "Quiero comprar jarabe para la tos.",
+        "zapoteco": "Racaladxeʼ guneʼ ti jarabe para tos."
+    },
+    {
+        "espanol": "Me lastimé el pie.",
+        "zapoteco": "Bichiiñaʼ ñeeʼ."
+    },
+    {
+        "espanol": "¿Puedo entrar sin cita?",
+        "zapoteco": "Ñee zanda chuaaʼ sin cita la?"
+    },
+    {
+        "espanol": "Necesito vacunar a mi bebé.",
+        "zapoteco": "Naquiiñeʼ guneʼ vacunar baʼduhuiiniʼ stinneʼ."
+    },
+    {
+        "espanol": "¿Qué horario tiene el consultorio?",
+        "zapoteco": "Pa hora stiʼ oficina ca la?"
+    },
+    {
+        "espanol": "¿Atienden los domingos?",
+        "zapoteco": "Pa guni servirluʼ domingu la?"
+    },
+    {
+        "espanol": "Me lastimé la rodilla.",
+        "zapoteco": "Bichiiñaʼ rodilla stinneʼ naa."
+    },
+    {
+        "espanol": "Tengo alergia a ciertos medicamentos.",
+        "zapoteco": "Nabé napaʼ alergia lu caadxi medicina."
+    },
+    {
+        "espanol": "¿Dónde está el hospital?",
+        "zapoteco": "Pa nuu hospital que la?"
+    },
+    {
+        "espanol": "Necesito llevar recetas a la farmacia.",
+        "zapoteco": "Naquiiñeʼ chineʼ receta ra farmacia."
+    },
+    {
+        "espanol": "¿Puedes acompañarme al doctor?",
+        "zapoteco": "Ñee zanda chinéluʼ naa ra nuu doctor la?"
+    },
+    {
+        "espanol": "Perdí mi tarjeta del seguro médico.",
+        "zapoteco": "Bindaaʼ tarjeta de seguru médicu stinneʼ."
+    },
+    {
+        "espanol": "¿Cuánto tardará la consulta?",
+        "zapoteco": "Padxí nga chigaca consulta ca yaʼ."
+    },
+    {
+        "espanol": "Mi abuelo necesita revisión médica.",
+        "zapoteco": "Caquiiñeʼ guni bixhozegolaʼ ti examen médicu."
+    },
+    {
+        "espanol": "Me siento mareado.",
+        "zapoteco": "Runeʼ sentir mareadu."
+    },
+    {
+        "espanol": "Tengo problemas para respirar.",
+        "zapoteco": "Nabé nagana para naa guireeʼ bi."
+    },
+    {
+        "espanol": "Necesito un análisis de sangre.",
+        "zapoteco": "Caquiiñeʼ guneʼ ti prueba de rini."
+    },
+    {
+        "espanol": "Me corté el dedo, necesito curarme.",
+        "zapoteco": "Bixheleʼ dedo stinneʼ, caquiiñeʼ guiandaʼ."
+    },
+    {
+        "espanol": "Necesito un medicamento para el estómago.",
+        "zapoteco": "Caquiiñeʼ caadxi medicina para guiandaʼ."
+    },
+    {
+        "espanol": "Tengo cita con el especialista.",
+        "zapoteco": "Naquiiñeʼ gapaʼ ti cita né especialista que."
+    },
+    {
+        "espanol": "¿Dónde queda el laboratorio médico?",
+        "zapoteco": "Pa nuu laboratorio médicu ca la?"
+    },
+    {
+        "espanol": "Me duele mucho la espalda.",
+        "zapoteco": "Nabé naná yuubaʼ xpaʼnaʼ."
+    },
+    {
+        "espanol": "¿Me puede recetar algo para el dolor?",
+        "zapoteco": "Ñee zanda gucaaluʼ naa xiixa para guiandaʼ la?"
+    },
+    {
+        "espanol": "Necesito una radiografía.",
+        "zapoteco": "Caquiiñeʼ ti radiografia."
+    },
+    {
+        "espanol": "¿Aceptan tarjeta en la farmacia?",
+        "zapoteco": "Pa guicaacabe tarjeta ra farmacia la?"
+    },
+    {
+        "espanol": "Quiero hacer una cita para mañana.",
+        "zapoteco": "Racaladxeʼ guneʼ ti cita para sti dxi."
+    },
+    {
+        "espanol": "Tengo inflamación en la garganta.",
+        "zapoteco": "Nabé naná nuu xpandáʼ."
+    },
+    {
+        "espanol": "Necesito reposo según el doctor.",
+        "zapoteco": "Caquiiñeʼ guiziiladxeʼ casi guníʼ doctor que."
+    },
+    {
+        "espanol": "Me siento mareado desde ayer.",
+        "zapoteco": "Maʼ bidxagayaaʼ dede dxiqué."
+    },
+    {
+        "espanol": "Estoy muy cansado últimamente.",
+        "zapoteco": "Nabé maʼ bidxagaʼ ca últimu dxi riʼ."
+    },
+    {
+        "espanol": "¿Atienden emergencias?",
+        "zapoteco": "Pa guni tratarluʼ ca emergencia ca la?"
+    },
+    {
+        "espanol": "Necesito vitaminas para mis hijos.",
+        "zapoteco": "Caquiiñeʼ vitamina para ca xiiñeʼ."
+    },
+    {
+        "espanol": "¿Cuándo llegan los resultados?",
+        "zapoteco": "Ora maʼ biree ca resultadu stini la?"
+    },
+    {
+        "espanol": "¿Puedo hablar con el doctor ahora?",
+        "zapoteco": "Ñee zanda guiniéʼ né doctor ca yanna la?"
+    },
+    {
+        "espanol": "Mi hija tiene dolor de oído.",
+        "zapoteco": "Xiiñedxaapaʼ napa ti guendahuará ni runiná diaga."
+    },
+    {
+        "espanol": "Necesito pastillas para el dolor muscular.",
+        "zapoteco": "Caquiiñeʼ pastilla para guiandaʼ lu ca músculo stinneʼ."
+    },
+    {
+        "espanol": "Creo que tengo presión alta.",
+        "zapoteco": "Runeʼ cré napaʼ presión alta."
+    },
+    {
+        "espanol": "Me duele mucho una muela.",
+        "zapoteco": "Nabé naná yuubaʼ napaʼ."
+    },
+    {
+        "espanol": "¿El hospital está abierto todo el día?",
+        "zapoteco": "Pa guidubi dxi nuu hospital ca la?"
+    },
+    {
+        "espanol": "Necesito comprar jarabe para la tos.",
+        "zapoteco": "Caquiiñeʼ guneʼ ti jarabe para tos."
+    },
+    {
+        "espanol": "Tengo una infección en la garganta.",
+        "zapoteco": "Nabé napaʼ ti infección ndaaniʼ garganta stinneʼ."
+    },
+    {
+        "espanol": "Necesito lentes nuevos.",
+        "zapoteco": "Caquiiñeʼ gapaʼ anteojo nacubi."
+    },
+    {
+        "espanol": "Tengo un fuerte dolor de estómago.",
+        "zapoteco": "Nabé naná yuubaʼ napaʼ ndaaniʼ."
+    },
+    {
+        "espanol": "¿Dónde puedo vacunarme contra la gripe?",
+        "zapoteco": "Pa zanda guicaaluʼ ti vacuna contra gripe la?"
+    },
+    {
+        "espanol": "Necesito ayuda médica urgente.",
+        "zapoteco": "Caquiiñeʼ gacané doctor naa nagueendaca."
+    },
+    {
+        "espanol": "Mi madre se cayó y se lastimó.",
+        "zapoteco": "Biaba jñaaʼ ne bininá laca laa."
+    },
+    {
+        "espanol": "¿Cuánto cuesta esta medicina?",
+        "zapoteco": "Pabiáʼ risaca medicina riʼ la?"
+    },
+    {
+        "espanol": "Necesito ir al oftalmólogo.",
+        "zapoteco": "Naquiiñeʼ chaaʼ ra nuu oftalmólogo."
+    },
+    {
+        "espanol": "Me duele el pecho cuando respiro.",
+        "zapoteco": "Nabé naná pecho stinneʼ ora riguiteʼ bi."
+    },
+    {
+        "espanol": "Necesito reposo según el doctor.",
+        "zapoteco": "Caquiiñeʼ guiziiladxeʼ casi guníʼ doctor que."
+    },
+    {
+        "espanol": "Me siento mareado y débil.",
+        "zapoteco": "Runeʼ sentir mareadu ne qué gapaʼ stipa."
+    },
+    {
+        "espanol": "Necesito comprar pañales en la farmacia.",
+        "zapoteco": "Naquiiñeʼ guneʼ comprar pañal ra farmacia."
+    },
+    {
+        "espanol": "¿Dónde está la farmacia de guardia?",
+        "zapoteco": "Pa nuu farmacia ni nuu lu llamada la?"
+    },
+    {
+        "espanol": "¿Puede recomendarme algún medicamento?",
+        "zapoteco": "Ñee zanda gudiiluʼ naa xiixa medicina la?"
+    },
+    {
+        "espanol": "Estoy esperando los análisis clínicos.",
+        "zapoteco": "Nabé cabézadu gaca ca análisis clínico."
+    },
+    {
+        "espanol": "¿Tienen algún analgésico?",
+        "zapoteco": "Pa nápaluʼ xiixa analgésico la?"
+    },
+    {
+        "espanol": "Necesito hacerme un ultrasonido.",
+        "zapoteco": "Caquiiñeʼ guneʼ ti ecografía."
+    },
+    {
+        "espanol": "¿Cuánto tarda la consulta normalmente?",
+        "zapoteco": "Pabiáʼ tiempu rindaa para gaca consulta ca la?"
+    },
+    {
+        "espanol": "Tengo dolor abdominal desde ayer.",
+        "zapoteco": "Dede ayer maʼ napaʼ yuubaʼ ndaaniʼ."
+    },
+    {
+        "espanol": "Necesito medir mi presión arterial.",
+        "zapoteco": "Naquiiñeʼ guneʼ medida presión arterial stinneʼ."
+    },
+    {
+        "espanol": "¿Hay farmacia abierta a esta hora?",
+        "zapoteco": "Pa nuu ti farmacia ni nuu raqué la?"
+    },
+    {
+        "espanol": "Me siento mal desde la mañana.",
+        "zapoteco": "Dede siadóʼ riʼ maʼ cayuneʼ sentir huaráʼ."
+    },
+    {
+        "espanol": "Necesito atención dental.",
+        "zapoteco": "Caquiiñeʼ gapaʼ cuidadu dental."
+    },
+    {
+        "espanol": "¿Cuánto cuesta la extracción de una muela?",
+        "zapoteco": "Pa guiree ti diente la?"
+    },
+    {
+        "espanol": "Quiero hacer una revisión general.",
+        "zapoteco": "Racaladxeʼ guneʼ ti revisión general."
+    },
+    {
+        "espanol": "Necesito comprar suero para rehidratarme.",
+        "zapoteco": "Caquiiñeʼ guneʼ comprar suero para guibiguetaʼ hidratar naa."
+    },
+    {
+        "espanol": "¿Dónde queda urgencias?",
+        "zapoteco": "Pa nuu sala de emergencia la?"
+    },
+    {
+        "espanol": "¿Cuánto cuesta una radiografía?",
+        "zapoteco": "Pa guiaxa ti rayos X la?"
+    },
+    {
+        "espanol": "Tengo problemas para dormir.",
+        "zapoteco": "Nabé nagana para naa guireeʼ."
+    },
+    {
+        "espanol": "Mi abuelo necesita ver al cardiólogo.",
+        "zapoteco": "Caquiiñeʼ cheʼ bixhozegolaʼ ra nuu cardiólogo."
+    },
+    {
+        "espanol": "¿Atienden sin seguro médico?",
+        "zapoteco": "Pa guni servirluʼ sin seguru médicu la?"
+    },
+    {
+        "espanol": "Necesito tomar antibióticos.",
+        "zapoteco": "Naquiiñeʼ guicaaʼ antibiótico."
+    },
+    {
+        "espanol": "Me duele la garganta cuando trago.",
+        "zapoteco": "Nabé naná ruaaʼ ora maʼ cayuubaʼ ladxiduáʼ."
+    },
+    {
+        "espanol": "¿Puedo pasar al consultorio?",
+        "zapoteco": "Pa gueedaʼ ra oficina ca la?"
+    },
+    {
+        "espanol": "Necesito consultar sobre mi embarazo.",
+        "zapoteco": "Naquiiñeʼ guneʼ consultar naa de embarazo stinneʼ."
+    },
+    {
+        "espanol": "¿Venden curitas en la farmacia?",
+        "zapoteco": "Pa gutoocabe bandaga ra farmacia la?"
+    },
+    {
+        "espanol": "Necesito tomar mi medicina cada ocho horas.",
+        "zapoteco": "Naquiiñeʼ guicaaʼ medicina stinneʼ cada ocho hora."
+    },
+    {
+        "espanol": "¿Dónde puedo conseguir medicamentos genéricos?",
+        "zapoteco": "Paraa zanda guidxelaʼ ca medicina genérica ca yaʼ."
+    },
+    {
+        "espanol": "Necesito un chequeo general.",
+        "zapoteco": "Caquiiñeʼ guneʼ ti examen general."
+    },
+    {
+        "espanol": "Tengo mareos desde temprano.",
+        "zapoteco": "Maʼ bidxagayaaʼ dede siadóʼ."
+    },
+    {
+        "espanol": "Me duele la cabeza muy fuerte.",
+        "zapoteco": "Nabé naná yuubaʼ iqueʼ."
+    },
+    {
+        "espanol": "Necesito ver a un pediatra.",
+        "zapoteco": "Naquiiñeʼ chaaʼ ra nuu ti pediatra."
+    },
+    {
+        "espanol": "¿Dónde queda la sala de emergencias?",
+        "zapoteco": "Pa nuu sala de emergencia la?"
+    },
+    {
+        "espanol": "Necesito lentes nuevos.",
+        "zapoteco": "Caquiiñeʼ gapaʼ anteojo nacubi."
+    },
+    {
+        "espanol": "¿Cuánto cuesta atenderse aquí?",
+        "zapoteco": "Cumu nabé risaca para guicaa binni atención raríʼ la?"
+    },
+    {
+        "espanol": "¿Hay servicio médico las 24 horas?",
+        "zapoteco": "Pa nuu serviciu médicu 24 hora la?"
+    },
+    {
+        "espanol": "¿Puedes cerrar la ventana?",
+        "zapoteco": "Pa guseeguluʼ ventana ca la?"
+    },
+    {
+        "espanol": "Necesito tender la cama.",
+        "zapoteco": "Naquiiñeʼ guneʼ chaahuiʼ cama que."
+    },
+    {
+        "espanol": "Voy a barrer la cocina.",
+        "zapoteco": "Naquiiñeʼ guneʼ barrer cocina."
+    },
+    {
+        "espanol": "¿Puedes pasarme una cuchara?",
+        "zapoteco": "Pa gudiiluʼ naa ti cuchara la?"
+    },
+    {
+        "espanol": "Estoy preparando sopa para la cena.",
+        "zapoteco": "Runeʼ sopa para guendaró."
+    },
+    {
+        "espanol": "Necesito limpiar la estufa.",
+        "zapoteco": "Naquiiñeʼ guneʼ limpiar estufa que."
+    },
+    {
+        "espanol": "¿Dónde está el detergente?",
+        "zapoteco": "Pa guiaana detergente ca la?"
+    },
+    {
+        "espanol": "Voy a ordenar la despensa.",
+        "zapoteco": "Naquiiñeʼ guneʼ arreglar despensa."
+    },
+    {
+        "espanol": "¿Puedes llevar esto al cuarto?",
+        "zapoteco": "Ñee zanda chinéluʼ ni ndaaniʼ cuartu ca la?"
+    },
+    {
+        "espanol": "Voy a sacar la basura ahora.",
+        "zapoteco": "Naquiiñeʼ cueeʼ basura ca yanna."
+    },
+    {
+        "espanol": "Necesito lavar las cortinas.",
+        "zapoteco": "Naquiiñeʼ guneʼ lavar ca cortina ca."
+    },
+    {
+        "espanol": "Hoy toca regar las plantas.",
+        "zapoteco": "Yanna riʼ maʼ bidxiña dxi guiaba nisa lu ca yagahuiiniʼ ca."
+    },
+    {
+        "espanol": "Estoy acomodando los libros.",
+        "zapoteco": "Nacaʼ arreglar ca libru ca."
+    },
+    {
+        "espanol": "Necesito más detergente para lavar.",
+        "zapoteco": "Caquiiñeʼ jma detergente para guiáʼ."
+    },
+    {
+        "espanol": "¿Dónde guardaste el jabón?",
+        "zapoteco": "Paraa bicaachiluʼ xabú que yaʼ."
+    },
+    {
+        "espanol": "¿Puedes poner la mesa, por favor?",
+        "zapoteco": "Ñee zanda gucaaluʼ mexaʼ ca la?"
+    },
+    {
+        "espanol": "Necesito encender la estufa.",
+        "zapoteco": "Naquiiñeʼ guzaaniʼ estufa que."
+    },
+    {
+        "espanol": "Voy a preparar café recién hecho.",
+        "zapoteco": "Naquiiñeʼ guneʼ ti café nacubi."
+    },
+    {
+        "espanol": "Estoy limpiando el refrigerador.",
+        "zapoteco": "Nabé sicarú modo biʼniʼ limpiarbe frigorífico que."
+    },
+    {
+        "espanol": "¿Puedes traerme un vaso con agua?",
+        "zapoteco": "Ñee zanda guedanéluʼ ti vasu nisa la?"
+    },
+    {
+        "espanol": "Necesito doblar la ropa.",
+        "zapoteco": "Caquiiñeʼ guneʼ doblar lari."
+    },
+    {
+        "espanol": "¿Guardaste bien las tortillas?",
+        "zapoteco": "Pa gucaachiluʼ ca tortilla ca galán la?"
+    },
+    {
+        "espanol": "Voy a bañar a los niños temprano.",
+        "zapoteco": "Naquiiñeʼ gusiáʼndaluʼ ca baʼduhuiiniʼ ca tempranu."
+    },
+    {
+        "espanol": "¿Dónde pusiste mis zapatos?",
+        "zapoteco": "Paraa guluuluʼ zapatu stinneʼ yaʼ."
+    },
+    {
+        "espanol": "Necesito cambiar las sábanas hoy.",
+        "zapoteco": "Naquiiñeʼ guchaaʼ ca hoja ca yannadxí."
+    },
+    {
+        "espanol": "Estoy lavando las ventanas.",
+        "zapoteco": "Nayaʼniʼ ca ventana ca."
+    },
+    {
+        "espanol": "Voy a calentar la comida.",
+        "zapoteco": "Naquiiñeʼ guneʼ calentar guendaró ca."
+    },
+    {
+        "espanol": "¿Puedes apagar la televisión?",
+        "zapoteco": "Ñee zanda gucueezaluʼ televisión ca la?"
+    },
+    {
+        "espanol": "Necesito limpiar el baño.",
+        "zapoteco": "Naquiiñeʼ guneʼ limpiar bañu."
+    },
+    {
+        "espanol": "¿Me ayudas a limpiar el patio?",
+        "zapoteco": "Ñee zanda gacaneluʼ naa guneʼ limpiar patiu ca la?"
+    },
+    {
+        "espanol": "Voy a revisar la puerta principal.",
+        "zapoteco": "Naquiiñeʼ guʼyaʼ chaahuiʼ puertaʼ stiʼ yoo que."
+    },
+    {
+        "espanol": "¿Dónde está la escoba nueva?",
+        "zapoteco": "Pa nuu escoba cubi ca la?"
+    },
+    {
+        "espanol": "Tengo que colgar la ropa mojada.",
+        "zapoteco": "Naquiiñeʼ gucaaʼ ca lari ni maʼ nabidxi que."
+    },
+    {
+        "espanol": "Voy a limpiar la mesa después de comer.",
+        "zapoteco": "Maʼ zigucheecheʼ diidxaʼ mexaʼ despué de guidoʼdo."
+    },
+    {
+        "espanol": "Necesito comprar más jabón.",
+        "zapoteco": "Naquiiñeʼ guneʼ comprar jma jabón."
+    },
+    {
+        "espanol": "¿Puedes sacar los platos limpios?",
+        "zapoteco": "Ñee zanda cueeluʼ ca platu nayá ca la?"
+    },
+    {
+        "espanol": "Estoy cortando verduras para la sopa.",
+        "zapoteco": "Nayaʼniʼ verdura para sopa."
+    },
+    {
+        "espanol": "¿Dónde dejaste la toalla?",
+        "zapoteco": "Paraa bisaanaluʼ toalla que yaʼ."
+    },
+    {
+        "espanol": "Necesito remendar este pantalón.",
+        "zapoteco": "Naquiiñeʼ guneʼ chaahuiʼ ca pantalón riʼ."
+    },
+    {
+        "espanol": "Voy a trapear el piso ahora.",
+        "zapoteco": "Maʼ chigucheecheʼ diidxaʼ yanna."
+    },
+    {
+        "espanol": "¿Puedes cuidar al bebé un momento?",
+        "zapoteco": "Ñee zanda gápaluʼ baʼduhuiiniʼ ca ti ratu la?"
+    },
+    {
+        "espanol": "Estoy haciendo tortillas a mano.",
+        "zapoteco": "Runeʼ tortilla né nayaʼ."
+    },
+    {
+        "espanol": "Voy a cerrar bien la llave del agua.",
+        "zapoteco": "Naquiiñeʼ gucueezaʼ gripu stiʼ nisa que."
+    },
+    {
+        "espanol": "Necesito guardar los alimentos.",
+        "zapoteco": "Naquiiñeʼ gucaaʼ guendaró."
+    },
+    {
+        "espanol": "¿Dónde está el recogedor?",
+        "zapoteco": "Paraa nuu polvo que yaʼ."
+    },
+    {
+        "espanol": "Estoy quitando el polvo.",
+        "zapoteco": "Naa nga polvo."
+    },
+    {
+        "espanol": "Necesito ordenar los juguetes de los niños.",
+        "zapoteco": "Naquiiñeʼ guneʼ arreglar ca juguete stiʼ ca xcuidihuiiniʼ ca."
+    },
+    {
+        "espanol": "Voy a preparar una ensalada fresca.",
+        "zapoteco": "Naquiiñeʼ guneʼ preparar ti ensalada nacubi."
+    },
+    {
+        "espanol": "¿Puedes encender la luz del patio?",
+        "zapoteco": "Pa gucaaluʼ luz stiʼ patiu ca la?"
+    },
+    {
+        "espanol": "Necesito poner agua en la olla.",
+        "zapoteco": "Caquiiñeʼ gucaaʼ nisa ndaaniʼ olla que."
+    },
+    {
+        "espanol": "¿Hablaste con tu hermano hoy?",
+        "zapoteco": "Ñee guniʼluʼ né bíʼchiluʼ yannadxí la?"
+    },
+    {
+        "espanol": "Mamá salió a comprar comida.",
+        "zapoteco": "Biree jñaaʼ zigutoo guendaró."
+    },
+    {
+        "espanol": "Tu abuela está descansando.",
+        "zapoteco": "Bixhózeluʼ caziilaʼdxiʼ."
+    },
+    {
+        "espanol": "¿Qué dijo papá sobre eso?",
+        "zapoteco": "Xi guníʼ bixhozeʼ de ngue yaʼ."
+    },
+    {
+        "espanol": "Mi tío vendrá a visitarnos mañana.",
+        "zapoteco": "Tioʼ zeeda chigánnadu laadu sti dxi."
+    },
+    {
+        "espanol": "Tu hermana tiene tarea hoy.",
+        "zapoteco": "Bizanaluʼ napa tarea yannadxí."
+    },
+    {
+        "espanol": "La comida está lista, ven rápido.",
+        "zapoteco": "Maʼ nuu guendaró ca, guyé nagueenda."
+    },
+    {
+        "espanol": "Necesito hablar contigo un momento.",
+        "zapoteco": "Caquiiñeʼ guiniéʼ né lii ti ratuhuiiniʼ."
+    },
+    {
+        "espanol": "¿Viste las llaves del coche?",
+        "zapoteco": "Ñee biiyaluʼ ca llave stiʼ carru que la?"
+    },
+    {
+        "espanol": "Los niños están jugando afuera.",
+        "zapoteco": "Ca xcuidi ca cayuundacaʼ fuera."
+    },
+    {
+        "espanol": "Tu primo llamó hace rato.",
+        "zapoteco": "Primu stiluʼ bicaa ridxi naa ti tiempu ante."
+    },
+    {
+        "espanol": "Estoy preocupada por tu salud.",
+        "zapoteco": "Nabé riuu xizaaʼ pur salud stiluʼ."
+    },
+    {
+        "espanol": "Necesitamos hablar de un tema importante.",
+        "zapoteco": "Caquiiñeʼ guininu de ti tema nabé risaca."
+    },
+    {
+        "espanol": "Tu padre llegó cansado del trabajo.",
+        "zapoteco": "Bixhózeluʼ bibiguetaʼ ra lidxi maʼ candaana de dxiiñaʼ."
+    },
+    {
+        "espanol": "¿Puedes vigilar a tu hermanita?",
+        "zapoteco": "Ñee zanda guʼyaʼ chaahuiluʼ bizaʼnaluʼ huiiniʼ ca la?"
+    },
+    {
+        "espanol": "Abuelo necesita ayuda para caminar.",
+        "zapoteco": "Caquiiñeʼ gacané bixhozegolaʼ laa cheʼ."
+    },
+    {
+        "espanol": "¿Qué quieres comer hoy?",
+        "zapoteco": "Xi racaláʼdxiluʼ góluʼ yannadxí yaʼ."
+    },
+    {
+        "espanol": "Mi esposo llegará más tarde.",
+        "zapoteco": "Despué zadxiña xheelaʼ."
+    },
+    {
+        "espanol": "Voy a llamar a tu hermana mayor.",
+        "zapoteco": "Maʼ chigucaaʼ ridxi bizaʼnaluʼ ni jma huaniisi."
+    },
+    {
+        "espanol": "¿Dónde guardaste mi ropa?",
+        "zapoteco": "Paraa guluuluʼ xhabaʼ yaʼ."
+    },
+    {
+        "espanol": "Necesitamos organizarnos mejor.",
+        "zapoteco": "Naquiiñeʼ guni organizarnu laanu jma jneza."
+    },
+    {
+        "espanol": "Los vecinos trajeron fruta.",
+        "zapoteco": "Ca vecinu que yenécabe cuananaxhi."
+    },
+    {
+        "espanol": "Necesito que ayudes en casa.",
+        "zapoteco": "Caquiiñeʼ gacaneluʼ naa ndaaniʼ yoo."
+    },
+    {
+        "espanol": "Tu hermano olvidó su mochila.",
+        "zapoteco": "Bixhózeluʼ bisiaandaʼ mochila stiʼ."
+    },
+    {
+        "espanol": "¿Puedes preparar desayuno hoy?",
+        "zapoteco": "Ñee zanda gúniluʼ desayunu yannadxí la?"
+    },
+    {
+        "espanol": "Tengo que cuidar a los niños.",
+        "zapoteco": "Naquiiñeʼ gapaʼ ca baʼduhuiiniʼ ca."
+    },
+    {
+        "espanol": "Los abuelos nos visitan este domingo.",
+        "zapoteco": "Ca abuelo ca nga chigánnacaʼ laadu domingu riʼ."
+    },
+    {
+        "espanol": "Estoy feliz por tu cumpleaños.",
+        "zapoteco": "Nayecheʼ nuaaʼ pur cumpleañu stiluʼ."
+    },
+    {
+        "espanol": "¿Puedes llamar a mamá por teléfono?",
+        "zapoteco": "Pa guiníʼneluʼ jñaaluʼ lu teléfono la?"
+    },
+    {
+        "espanol": "Mi hermano está estudiando mucho últimamente.",
+        "zapoteco": "Nabé cayuni estudiar bicheʼ ca últimu dxi riʼ."
+    },
+    {
+        "espanol": "Necesitamos estar unidos como familia.",
+        "zapoteco": "Naquiiñeʼ chuʼnu tobi si casi ti familia."
+    },
+    {
+        "espanol": "Voy a contarle un cuento a los niños.",
+        "zapoteco": "Chiguzeeteʼ ti historia ca xcuidihuiiniʼ ca."
+    },
+    {
+        "espanol": "Tu papá pidió café caliente.",
+        "zapoteco": "Bixhózeluʼ biʼniʼ pedidu café nandáʼ."
+    },
+    {
+        "espanol": "Vamos a cenar todos juntos hoy.",
+        "zapoteco": "Guiranu chitópanu gueta juntu yannadxí."
+    },
+    {
+        "espanol": "¿Puedes traer más leña?",
+        "zapoteco": "Pa chinéluʼ jma yaga la?"
+    },
+    {
+        "espanol": "Mis padres están bien de salud.",
+        "zapoteco": "Nabé galán nuu bixhozeʼ ne jñaaʼ."
+    },
+    {
+        "espanol": "La familia vendrá a comer el domingo.",
+        "zapoteco": "Zadxiña familia ca para gó domingu."
+    },
+    {
+        "espanol": "Necesito que limpies tu cuarto.",
+        "zapoteco": "Caquiiñeʼ gusiáʼndaluʼ cuartu stiluʼ."
+    },
+    {
+        "espanol": "¿Ayudas a tu hermana con su tarea?",
+        "zapoteco": "Ñee racaneluʼ bizaʼnaluʼ guni tarea stiʼ la?"
+    },
+    {
+        "espanol": "Tu abuela cocinó algo especial.",
+        "zapoteco": "Bixhózeluʼ biʼniʼ cocinar xiixa especial."
+    },
+    {
+        "espanol": "Vamos a jugar un rato en el patio.",
+        "zapoteco": "Biʼniʼ juegu ndaaniʼ patiu que ti ratuhuiiniʼ."
+    },
+    {
+        "espanol": "Tu primo se quedó dormido temprano.",
+        "zapoteco": "Primu stiluʼ que bidxágabe tempranu."
+    },
+    {
+        "espanol": "Necesito saber si estás bien.",
+        "zapoteco": "Naquiiñeʼ gannaʼ pa nuuluʼ galán."
+    },
+    {
+        "espanol": "Voy a esperar a tu papá para cenar.",
+        "zapoteco": "Naquiiñeʼ cuézaluʼ gueeda bixhózeluʼ para gó gueta."
+    },
+    {
+        "espanol": "¿Tu hermano lavó sus platos?",
+        "zapoteco": "Ñee biʼniʼ chaahuiluʼ ca platu stiʼ la?"
+    },
+    {
+        "espanol": "Estamos muy orgullosos de ti.",
+        "zapoteco": "Nabé orgulloso laadu pur laatu."
+    },
+    {
+        "espanol": "La familia quiere celebrar tu éxito.",
+        "zapoteco": "Racalaʼdxiʼ familia ca guni celebrarcaʼ purtiʼ maʼ biʼniʼ ganarluʼ."
+    },
+    {
+        "espanol": "¿Puedes ayudar a los niños con su tarea?",
+        "zapoteco": "Ñee zanda gacaneluʼ ca baʼduhuiiniʼ ca gúnicaʼ tarea sticaʼ la?"
+    },
+    {
+        "espanol": "Mi hermana me pidió prestado dinero.",
+        "zapoteco": "Bizanaʼ biʼniʼ prestar bueltu naa."
+    },
+    {
+        "espanol": "Necesitamos compartir las responsabilidades.",
+        "zapoteco": "Naquiiñeʼ gudiʼnu ca responsabilidad stinu."
+    },
+    {
+        "espanol": "¿Vienes a la fiesta esta noche?",
+        "zapoteco": "Pa gueedaluʼ ra cayaca saa ca huaxhinni la?"
+    },
+    {
+        "espanol": "Vamos a celebrar mi cumpleaños.",
+        "zapoteco": "Laadu chigúnidu ti saa dxi guleʼ."
+    },
+    {
+        "espanol": "¿A qué hora empieza la boda?",
+        "zapoteco": "Xi hora ruzulú guendaxheelaʼ ca yaʼ."
+    },
+    {
+        "espanol": "Necesito comprar un regalo.",
+        "zapoteco": "Caquiiñeʼ guneʼ ti regalu."
+    },
+    {
+        "espanol": "¿Qué vas a llevar puesto?",
+        "zapoteco": "Xii nga ni chigúniluʼ yaʼ."
+    },
+    {
+        "espanol": "Estoy organizando una reunión en casa.",
+        "zapoteco": "Runeʼ organizar ti reunión ra lidxeʼ."
+    },
+    {
+        "espanol": "La comida en la fiesta estuvo deliciosa.",
+        "zapoteco": "Nabé galán guendaró ni gudócabe ra cayaca saa que."
+    },
+    {
+        "espanol": "¿Quién traerá las bebidas?",
+        "zapoteco": "Tuu nga chiné ca guendaró ca yaʼ."
+    },
+    {
+        "espanol": "Necesito decorar la casa.",
+        "zapoteco": "Naquiiñeʼ guneʼ decorar yoo que."
+    },
+    {
+        "espanol": "¿Quieres bailar conmigo?",
+        "zapoteco": "Pa racaláʼdxiluʼ guidxaagaluluʼ naa la?"
+    },
+    {
+        "espanol": "Vamos a brindar por tu éxito.",
+        "zapoteco": "Biʼniʼ brindar para éxitu stiluʼ."
+    },
+    {
+        "espanol": "Los invitados llegarán temprano.",
+        "zapoteco": "Zadxiña ca invitadu ca tempranu."
+    },
+    {
+        "espanol": "¿Puedes ayudarme con la música?",
+        "zapoteco": "Ñee zanda gacaneluʼ naa né ca música ca la?"
+    },
+    {
+        "espanol": "Hoy habrá mucha gente.",
+        "zapoteco": "Zaca stale binni yanna."
+    },
+    {
+        "espanol": "Necesito ir por más sillas.",
+        "zapoteco": "Naquiiñeʼ chaaʼ chiyubeʼ jma silla."
+    },
+    {
+        "espanol": "¿Qué música te gusta?",
+        "zapoteco": "Xi música riuuláʼdxiluʼ yaʼ."
+    },
+    {
+        "espanol": "La fiesta será en el salón grande.",
+        "zapoteco": "Zaca saa ca ndaaniʼ salón naroʼbaʼ ca."
+    },
+    {
+        "espanol": "Necesito invitar a mis amigos.",
+        "zapoteco": "Naquiiñeʼ guneʼ invitar ca xhamiguaʼ."
+    },
+    {
+        "espanol": "Vamos a cortar el pastel.",
+        "zapoteco": "Laanu biʼniʼ cortarnu pastel que."
+    },
+    {
+        "espanol": "¿Quién organizó el evento?",
+        "zapoteco": "Tuu nga biʼniʼ organizar eventu riʼ yaʼ."
+    },
+    {
+        "espanol": "Llegó el mariachi.",
+        "zapoteco": "Bidxiña mariachi que."
+    },
+    {
+        "espanol": "Estoy preparando bocadillos.",
+        "zapoteco": "Nabé sicarú modo biʼniʼ prepararbe sándwiches."
+    },
+    {
+        "espanol": "¿Quieres ayudarme con los globos?",
+        "zapoteco": "Pa racaláʼdxiluʼ gacaneluʼ naa né ca globo ca la?"
+    },
+    {
+        "espanol": "Necesito servir la comida pronto.",
+        "zapoteco": "Naquiiñeʼ guneʼ servir guendaró ca nagueendaca."
+    },
+    {
+        "espanol": "Estamos esperando a los padrinos.",
+        "zapoteco": "Laanu cabézanu gueeda ca padrinu ca."
+    },
+    {
+        "espanol": "El evento fue un éxito.",
+        "zapoteco": "Nabé galán guca eventu que."
+    },
+    {
+        "espanol": "Voy a tomar fotos para recordar.",
+        "zapoteco": "Naquiiñeʼ guneʼ foto para guietenalaʼdxeʼ ni."
+    },
+    {
+        "espanol": "¿Te gustó la decoración?",
+        "zapoteco": "Pa guyuuláʼdxiluʼ decoración que la?"
+    },
+    {
+        "espanol": "La fiesta terminará tarde.",
+        "zapoteco": "Zaluxe saa que tarde."
+    },
+    {
+        "espanol": "¿Quién hizo la comida?",
+        "zapoteco": "Tu bizáʼ ca guendaró que yaʼ."
+    },
+    {
+        "espanol": "Necesito una piñata.",
+        "zapoteco": "Caquiiñeʼ ti piñata."
+    },
+    {
+        "espanol": "Estoy invitando a toda la familia.",
+        "zapoteco": "Runeʼ invitar guidubi familia stinneʼ."
+    },
+    {
+        "espanol": "Hoy habrá fuegos artificiales.",
+        "zapoteco": "Zaca fuego artificial yannadxí."
+    },
+    {
+        "espanol": "La ceremonia fue hermosa.",
+        "zapoteco": "Nabé sicarú guca ceremonia que."
+    },
+    {
+        "espanol": "¿Puedes traer hielo?",
+        "zapoteco": "Pa chinéluʼ caadxi hielu la?"
+    },
+    {
+        "espanol": "Vamos a celebrar la graduación.",
+        "zapoteco": "Laadu chigúnidu ti saa de graduación."
+    },
+    {
+        "espanol": "La música está muy fuerte.",
+        "zapoteco": "Nabé nadipaʼ ridxi stiʼ música que."
+    },
+    {
+        "espanol": "La quinceañera está muy bonita.",
+        "zapoteco": "Nabé sicarú quinceañera que."
+    },
+    {
+        "espanol": "¿Me ayudas a limpiar después?",
+        "zapoteco": "Ñee zanda gacaneluʼ naa guneʼ limpieza despué la?"
+    },
+    {
+        "espanol": "Necesitamos más refrescos.",
+        "zapoteco": "Caquiiñenu jma refrescu."
+    },
+    {
+        "espanol": "La gente está llegando ya.",
+        "zapoteco": "Maʼ zedadxiña binni."
+    },
+    {
+        "espanol": "Esta fiesta es divertida.",
+        "zapoteco": "Nabé sicarú saa riʼ."
+    },
+    {
+        "espanol": "¿Te divertiste en la reunión?",
+        "zapoteco": "Ñee guyuuláʼdxiluʼ guendaridagulisaa que la?"
+    },
+    {
+        "espanol": "La boda fue muy elegante.",
+        "zapoteco": "Nabé elegante guca guendaxheelaʼ que."
+    },
+    {
+        "espanol": "Necesito vestirme rápido.",
+        "zapoteco": "Naquiiñeʼ gacuʼ lari nagueendaca."
+    },
+    {
+        "espanol": "Voy a preparar más comida.",
+        "zapoteco": "Maʼ chiguneʼ preparar jma guendaró."
+    },
+    {
+        "espanol": "Necesito encargar pastel.",
+        "zapoteco": "Naquiiñeʼ guneʼ pedidu ti torta."
+    },
+    {
+        "espanol": "La fiesta es sorpresa.",
+        "zapoteco": "Fiesta que nga ti sorpresa."
+    },
+    {
+        "espanol": "Estás invitado a la cena.",
+        "zapoteco": "Biʼniʼ invitárcabe lii para guidoʼdo gueta."
+    },
+    {
+        "espanol": "¿Puedes repartir las invitaciones?",
+        "zapoteco": "Ñee zanda gudiiluʼ ca invitación ca la?"
+    },
+    {
+        "espanol": "Vamos a decorar con flores.",
+        "zapoteco": "Biʼniʼ decorarbe né ca guieʼ ca."
+    },
+    {
+        "espanol": "Necesito contratar música en vivo.",
+        "zapoteco": "Naquiiñeʼ guneʼ contratar música en vivo."
+    },
+    {
+        "espanol": "Voy a rentar mesas y sillas.",
+        "zapoteco": "Naquiiñeʼ guneʼ alquilar mexaʼ ne banguʼ."
+    },
+    {
+        "espanol": "Los niños rompieron la piñata.",
+        "zapoteco": "Ca xcuidihuiiniʼ que bichácabe piñata que."
+    },
+    {
+        "espanol": "¿Puedes traer tu guitarra?",
+        "zapoteco": "Pa chinéluʼ guitarra stiluʼ la?"
+    },
+    {
+        "espanol": "¿Dónde será la fiesta?",
+        "zapoteco": "Paraa chigaca saa ca yaʼ."
+    },
+    {
+        "espanol": "La boda será en diciembre.",
+        "zapoteco": "Zaca guendaxheelaʼ ca lu beeu diciembre."
+    },
+    {
+        "espanol": "Necesitamos comprar dulces.",
+        "zapoteco": "Naquiiñeʼ siʼnu dulce."
+    },
+    {
+        "espanol": "¿Me ayudas con los adornos?",
+        "zapoteco": "Ñee zanda gacaneluʼ naa né ca decoración ca la?"
+    },
+    {
+        "espanol": "La fiesta infantil será mañana.",
+        "zapoteco": "Fiesta stiʼ ca baʼduhuiiniʼ ca zaca ni sti dxi."
+    },
+    {
+        "espanol": "Mi hermana cumple años hoy.",
+        "zapoteco": "Cumpleañu stiʼ bizanaʼ yannadxí."
+    },
+    {
+        "espanol": "Necesito organizar los juegos.",
+        "zapoteco": "Naquiiñeʼ guneʼ organizar ca juegu ca."
+    },
+    {
+        "espanol": "Habrá premios para los niños.",
+        "zapoteco": "Zapa ca baʼduhuiiniʼ ca premiu."
+    },
+    {
+        "espanol": "La fiesta termina a medianoche.",
+        "zapoteco": "Riluxe saa que galaa gueelaʼ."
+    },
+    {
+        "espanol": "Necesitamos un lugar más amplio.",
+        "zapoteco": "Caquiiñenu ti lugar jma naroʼbaʼ."
+    },
+    {
+        "espanol": "La comida alcanzó para todos.",
+        "zapoteco": "Guyuu guendaró para guiráʼ binni."
+    },
+    {
+        "espanol": "Los invitados ya están bailando.",
+        "zapoteco": "Ca invitadu que maʼ cayuundacaʼ."
+    },
+    {
+        "espanol": "¿Te encargas de las bebidas?",
+        "zapoteco": "Pa lii nga encargadu de guendaró la?"
+    },
+    {
+        "espanol": "Los padrinos ya llegaron.",
+        "zapoteco": "Maʼ bidxiña ca padrinu que."
+    },
+    {
+        "espanol": "Hoy celebramos el aniversario.",
+        "zapoteco": "Yanna riʼ cayúninu aniversario."
+    },
+    {
+        "espanol": "La decoración quedó muy bonita.",
+        "zapoteco": "Nabé galán modo guca decorar ni."
+    },
+    {
+        "espanol": "¿Quién organizó los juegos?",
+        "zapoteco": "Tuu nga biʼniʼ organizar ca juegu que yaʼ."
+    },
+    {
+        "espanol": "Voy a cambiarme de ropa.",
+        "zapoteco": "maʼ chiguchaaʼ lari stinneʼ."
+    },
+    {
+        "espanol": "Necesitamos servilletas y platos.",
+        "zapoteco": "Caquiiñenu servilleta ne platu."
+    },
+    {
+        "espanol": "La música animó mucho la fiesta.",
+        "zapoteco": "Dxandíʼ bisibani ca música que saa que."
+    },
+    {
+        "espanol": "Los vecinos también vinieron.",
+        "zapoteco": "Laaca beeda ca vecinu que."
+    },
+    {
+        "espanol": "Vamos a limpiar al terminar.",
+        "zapoteco": "Zaguíxhenu ni ora maʼ biluxe ni."
+    },
+    {
+        "espanol": "¿Puedes poner música alegre?",
+        "zapoteco": "Ñee zanda gucaadiágaluʼ caadxi música nayecheʼ la?"
+    },
+    {
+        "espanol": "Necesitamos hielos y vasos.",
+        "zapoteco": "Caquiiñenu hielu ne vasu."
+    },
+    {
+        "espanol": "Fue una reunión pequeña.",
+        "zapoteco": "Nahuiiniʼ guendaridagulisaa que."
+    },
+    {
+        "espanol": "Todos trajeron algo de comer.",
+        "zapoteco": "Guiráʼ binni yené ni gó."
+    },
+    {
+        "espanol": "Estoy agradecido con los invitados.",
+        "zapoteco": "Rudieeʼ xquíxepeʼ ca invitadu que."
+    },
+    {
+        "espanol": "La fiesta salió perfecta.",
+        "zapoteco": "Biree saa que perfectu."
+    },
+    {
+        "espanol": "Necesitamos fotos de recuerdo.",
+        "zapoteco": "Caquiiñenu foto de recuerdu."
+    },
+    {
+        "espanol": "Voy a servir la cena ahora.",
+        "zapoteco": "Maʼ chiguneʼ servir cena yanna."
+    },
+    {
+        "espanol": "Los invitados están contentos.",
+        "zapoteco": "Nayecheʼ nuu ca invitadu que."
+    },
+    {
+        "espanol": "Hoy celebramos juntos.",
+        "zapoteco": "Yanna riʼ juntu runi celebrardu."
+    },
+    {
+        "espanol": "Estoy esperando al fotógrafo.",
+        "zapoteco": "Nabé cabezaʼ gueeda fotógrafo que."
+    },
+    {
+        "espanol": "Vamos a bailar un poco más.",
+        "zapoteco": "Lagaca bailar ti ratuhuiiniʼ."
+    },
+    {
+        "espanol": "Necesitamos más botanas.",
+        "zapoteco": "Caquiiñenu jma guendaró."
+    },
+    {
+        "espanol": "El evento terminó temprano.",
+        "zapoteco": "Biluxe eventu que tempranu."
+    },
+    {
+        "espanol": "Los padrinos dieron regalos.",
+        "zapoteco": "Ca padrinu que bidiicaʼ regalu."
+    },
+    {
+        "espanol": "La novia está lista.",
+        "zapoteco": "Maʼ nuu novia que listu."
+    },
+    {
+        "espanol": "Vamos a encender las luces.",
+        "zapoteco": "Bizaaniʼ ca luz que."
+    },
+    {
+        "espanol": "Todos se divirtieron mucho.",
+        "zapoteco": "Guiráʼ binni nabé bidxagayaa."
+    },
+    {
+        "espanol": "Necesitamos más bebidas frías.",
+        "zapoteco": "Caquiiñenu jma guendaró nandáʼ."
+    },
+    {
+        "espanol": "La música terminó temprano.",
+        "zapoteco": "Biluxe música que tempranu."
+    },
+    {
+        "espanol": "La gente pidió más comida.",
+        "zapoteco": "Gunabaʼ binni jma guendaró."
+    },
+    {
+        "espanol": "Estoy feliz de que hayas venido.",
+        "zapoteco": "Nayecheʼ nuaaʼ purtiʼ beedaluʼ."
+    },
+    {
+        "espanol": "Muchas gracias por acompañarnos.",
+        "zapoteco": "Nabé rudiʼdu xquíxepeʼ laatu pur guyuutu ladedu."
+    },
+    {
+        "espanol": "Hoy voy al campo.",
+        "zapoteco": "Yannadxí maʼ ziaaʼ ca layú."
+    },
+    {
+        "espanol": "Las flores están bonitas.",
+        "zapoteco": "Nabé sicarú ca guieʼ ca."
+    },
+    {
+        "espanol": "Necesito ir por agua al río.",
+        "zapoteco": "Caquiiñeʼ chaaʼ ra guiiguʼ ca para guicaaʼ nisa."
+    },
+    {
+        "espanol": "¿Viste las estrellas anoche?",
+        "zapoteco": "Ñee biiyaluʼ ca beleguí que huaxhinni la?"
+    },
+    {
+        "espanol": "El paisaje está hermoso.",
+        "zapoteco": "Nabé sicarú ca paisaje que."
+    },
+    {
+        "espanol": "Vamos a sembrar maíz mañana.",
+        "zapoteco": "Laanu chigudxiibanu trigu sti dxi."
+    },
+    {
+        "espanol": "Me gusta caminar entre árboles.",
+        "zapoteco": "Nabé riuuladxeʼ guzayaʼ lade yaga."
+    },
+    {
+        "espanol": "El sol está muy fuerte hoy.",
+        "zapoteco": "Gubidxa nabé nadipaʼ nuu yanna."
+    },
+    {
+        "espanol": "El aire es fresco aquí.",
+        "zapoteco": "Nabé nandáʼ aire raríʼ."
+    },
+    {
+        "espanol": "Necesito cortar leña.",
+        "zapoteco": "Caquiiñeʼ guneʼ dxiiñaʼ de yaga."
+    },
+    {
+        "espanol": "La lluvia ayuda a las plantas.",
+        "zapoteco": "Racané nisaguié ca planta."
+    },
+    {
+        "espanol": "Los pájaros cantan bonito.",
+        "zapoteco": "Nabé sicarú ruundaʼ ca pájaru ca."
+    },
+    {
+        "espanol": "Vamos a recoger frutos.",
+        "zapoteco": "Guyé gucuaa caadxi cuananaxhi."
+    },
+    {
+        "espanol": "Necesito regar la milpa.",
+        "zapoteco": "Naquiiñeʼ guneʼ nisa lu layú ra rigaa trigu."
+    },
+    {
+        "espanol": "Las gallinas pusieron huevos.",
+        "zapoteco": "Ca gallina que rudiicaʼ óvulo."
+    },
+    {
+        "espanol": "Las vacas están en el corral.",
+        "zapoteco": "Ca vaca ca nuucaʼ ndaaniʼ corral."
+    },
+    {
+        "espanol": "Hoy hay luna llena.",
+        "zapoteco": "Yanna riʼ maʼ nuu luna llena."
+    },
+    {
+        "espanol": "Me gusta escuchar el río.",
+        "zapoteco": "Nabé riuuladxeʼ gucaadiaʼgaʼ ca guiiguʼ ca."
+    },
+    {
+        "espanol": "Necesito limpiar el terreno.",
+        "zapoteco": "Caquiiñeʼ guneʼ limpiar layú que."
+    },
+    {
+        "espanol": "Los árboles dan sombra.",
+        "zapoteco": "Ca yaga ca rudiicani sombra."
+    },
+    {
+        "espanol": "Voy a sembrar frijol hoy.",
+        "zapoteco": "Naquiiñeʼ guneʼ plantar haba yannadxí."
+    },
+    {
+        "espanol": "Las frutas están maduras.",
+        "zapoteco": "Ca cuananaxhi ca maʼ nabidxi cani."
+    },
+    {
+        "espanol": "Necesitamos sembrar verduras.",
+        "zapoteco": "Naquiiñeʼ guzuhuaʼnu verdura."
+    },
+    {
+        "espanol": "¿Te gusta ir al monte?",
+        "zapoteco": "Pa riuuláʼdxiluʼ cheluʼ lu ca dani ca la?"
+    },
+    {
+        "espanol": "Los animales necesitan alimento.",
+        "zapoteco": "Ca maniʼ ca caquiiñecaʼ guendaró."
+    },
+    {
+        "espanol": "Voy a cortar leña temprano.",
+        "zapoteco": "Naquiiñeʼ guneʼ cortar yaga tempranu."
+    },
+    {
+        "espanol": "Las plantas están creciendo rápido.",
+        "zapoteco": "Nabé nagueenda rigaa ca planta ca."
+    },
+    {
+        "espanol": "El aire está fresco aquí.",
+        "zapoteco": "Nabé nandáʼ aire raríʼ."
+    },
+    {
+        "espanol": "Vamos a pescar al río.",
+        "zapoteco": "Guyé chigutoo benda ndaaniʼ guiiguʼ que."
+    },
+    {
+        "espanol": "Necesitamos preparar la tierra.",
+        "zapoteco": "Naquiiñeʼ guni prepararnu layú ca."
+    },
+    {
+        "espanol": "Los niños juegan en el campo.",
+        "zapoteco": "Ca xcuidi ca riguítecaʼ ndaaniʼ layú."
+    },
+    {
+        "espanol": "Hoy hace buen clima.",
+        "zapoteco": "Nabé galán tiempu ca yanna."
+    },
+    {
+        "espanol": "Necesito ir por leña seca.",
+        "zapoteco": "Naquiiñeʼ chaaʼ chiyubeʼ caadxi yaga secu."
+    },
+    {
+        "espanol": "Las nubes están oscuras.",
+        "zapoteco": "Nabé naxiñáʼ ca za que."
+    },
+    {
+        "espanol": "La lluvia fue buena para la cosecha.",
+        "zapoteco": "Nabé galán nisaguié que para guiasa cosecha."
+    },
+    {
+        "espanol": "Las aves vuelan alto hoy.",
+        "zapoteco": "Ca pájaru ca ripapacaʼ guibáʼ yannadxí."
+    },
+    {
+        "espanol": "Vamos a plantar maíz.",
+        "zapoteco": "Laanu nga chigudxiibanu trigu."
+    },
+    {
+        "espanol": "El sol ya salió temprano.",
+        "zapoteco": "Maʼ biree Gubidxa tempranu."
+    },
+    {
+        "espanol": "Los árboles dan mucha sombra.",
+        "zapoteco": "Ca yaga ca rudiicani stale sombra."
+    },
+    {
+        "espanol": "Necesitamos cuidar el bosque.",
+        "zapoteco": "Naquiiñeʼ gápanu ca bosque ca."
+    },
+    {
+        "espanol": "Las mariposas están bonitas hoy.",
+        "zapoteco": "Nabé sicarú ca mariposa ca yanna."
+    },
+    {
+        "espanol": "Los insectos pican mucho aquí.",
+        "zapoteco": "Nabé riguite ca insectu ca raríʼ."
+    },
+    {
+        "espanol": "Vamos a cortar pasto.",
+        "zapoteco": "Bicaachiʼ caadxi guixi."
+    },
+    {
+        "espanol": "Necesito una pala para trabajar.",
+        "zapoteco": "Caquiiñeʼ ti pala para guneʼ dxiiñaʼ."
+    },
+    {
+        "espanol": "¿Quieres ir al río a nadar?",
+        "zapoteco": "Pa racaláʼdxiluʼ cheluʼ ra guiiguʼ ca para guireeluʼ la?"
+    },
+    {
+        "espanol": "Los perros cuidan el terreno.",
+        "zapoteco": "Ca bihui ca rapacaʼ layú."
+    },
+    {
+        "espanol": "Vamos a cosechar el maíz.",
+        "zapoteco": "Lagaca cosechar ca maíz que."
+    },
+    {
+        "espanol": "Necesitamos llevar agua al ganado.",
+        "zapoteco": "Naquiiñeʼ chinenu nisa ra nuu ca vaca ca."
+    },
+    {
+        "espanol": "Las frutas están maduras.",
+        "zapoteco": "Ca cuananaxhi ca maʼ nabidxi cani."
+    },
+    {
+        "espanol": "Los pájaros están cantando.",
+        "zapoteco": "Ca pájaru ca cayuundacaʼ."
+    },
+    {
+        "espanol": "Voy a recoger flores del campo.",
+        "zapoteco": "Naa ziaaʼ cueeʼ guieʼ lu layú."
+    },
+    {
+        "espanol": "Los niños corren por el campo.",
+        "zapoteco": "Ca xcuidihuiiniʼ ca ruxooñecaʼ lu layú que."
+    },
+    {
+        "espanol": "Voy a sembrar calabaza.",
+        "zapoteco": "Naquiiñeʼ guneʼ plantar calabaza."
+    },
+    {
+        "espanol": "Las plantas necesitan agua.",
+        "zapoteco": "Ca planta ca caquiiñecaʼ nisa."
+    },
+    {
+        "espanol": "¿Dónde está el machete?",
+        "zapoteco": "Paraa nuu machete que yaʼ."
+    },
+    {
+        "espanol": "El río lleva poca agua hoy.",
+        "zapoteco": "Ca guiiguʼ ca huaxiéʼ nisa ziné cani yanna."
+    },
+    {
+        "espanol": "Los árboles dan buena sombra.",
+        "zapoteco": "Ca yaga ca rudiicani sombra galán."
+    },
+    {
+        "espanol": "Necesito sembrar tomates.",
+        "zapoteco": "Naquiiñeʼ guneʼ plantar tomate."
+    },
+    {
+        "espanol": "Hoy vamos a limpiar la parcela.",
+        "zapoteco": "Yanna riʼ maʼ chigúninu limpieza lu parcela."
+    },
+    {
+        "espanol": "La cosecha será buena este año.",
+        "zapoteco": "Nabé galán zaca cosecha iza riʼ."
+    },
+    {
+        "espanol": "¿Quieres descansar bajo el árbol?",
+        "zapoteco": "Pa racaláʼdxiluʼ guiziiláʼdxiluʼ xaʼnaʼ yaga ca la?"
+    },
+    {
+        "espanol": "El sol sale temprano aquí.",
+        "zapoteco": "Tempranu rindani Gubidxa raríʼ."
+    },
+    {
+        "espanol": "Los animales ya comieron.",
+        "zapoteco": "Maʼ gudó ca maniʼ que."
+    },
+    {
+        "espanol": "Voy a cuidar mis plantas.",
+        "zapoteco": "Naquiiñeʼ gapaʼ ca planta stinneʼ."
+    },
+    {
+        "espanol": "Vamos a buscar hongos al monte.",
+        "zapoteco": "Guyé guyubi ca hongo ni nuu lu ca dani ca."
+    },
+    {
+        "espanol": "Necesito herramientas nuevas.",
+        "zapoteco": "Caquiiñeʼ herramienta nacubi."
+    },
+    {
+        "espanol": "Vamos al bosque por leña.",
+        "zapoteco": "Riuudu lu guiʼxhiʼ para chiyúbidu yaga."
+    },
+    {
+        "espanol": "Hoy el día está muy bonito.",
+        "zapoteco": "Yannadxí nga ti dxi nabé galán."
+    },
+    {
+        "espanol": "Los pájaros cantan al amanecer.",
+        "zapoteco": "Ca pájaru ca ruundacaʼ ora maʼ zigucheechecaʼ diidxaʼ."
+    },
+    {
+        "espanol": "Las flores crecieron rápido.",
+        "zapoteco": "Nagueendaca biniisi ca guieʼ que."
+    },
+    {
+        "espanol": "Voy a construir un corral.",
+        "zapoteco": "Naquiiñeʼ guneʼ ti corral."
+    },
+    {
+        "espanol": "Necesitamos más semillas.",
+        "zapoteco": "Caquiiñenu jma biidxiʼ."
+    },
+    {
+        "espanol": "Hoy recogimos fruta madura.",
+        "zapoteco": "Yanna riʼ maʼ biʼniʼ cosechardu cuananaxhi ni maʼ nabidxi."
+    },
+    {
+        "espanol": "El agua del río está fría.",
+        "zapoteco": "Nabé nananda nisa stiʼ guiiguʼ que."
+    },
+    {
+        "espanol": "Necesito traer más leña.",
+        "zapoteco": "Caquiiñeʼ guedanéʼ jma yaga."
+    },
+    {
+        "espanol": "Las plantas están creciendo bien.",
+        "zapoteco": "Nabé galán modo ziyaca ca planta ca."
+    },
+    {
+        "espanol": "Voy a alimentar las gallinas.",
+        "zapoteco": "Nayaʼniʼ nga chigudieeʼ ni gó ca maniʼ huiiniʼ ca."
+    },
+    {
+        "espanol": "Hay muchos insectos hoy.",
+        "zapoteco": "Nabé stale insectu nuu yanna."
+    },
+    {
+        "espanol": "Voy a limpiar las herramientas.",
+        "zapoteco": "Naquiiñeʼ guneʼ limpiar ca herramienta ca."
+    },
+    {
+        "espanol": "Necesitamos más lluvia.",
+        "zapoteco": "Caquiiñenu jma nisaguié."
+    },
+    {
+        "espanol": "El cielo está despejado.",
+        "zapoteco": "Nabé nayá guibáʼ."
+    },
+    {
+        "espanol": "Vamos a descansar un rato aquí.",
+        "zapoteco": "Guziiláʼdxinu raríʼ ti ratuhuiiniʼ."
+    },
+    {
+        "espanol": "El campo está verde ahora.",
+        "zapoteco": "Nabé verde layú que yanna."
+    },
+    {
+        "espanol": "Necesitamos cercar el terreno.",
+        "zapoteco": "Naquiiñeʼ gucueezanu layú ca."
+    },
+    {
+        "espanol": "Vamos a revisar el sembradío.",
+        "zapoteco": "Biiyaʼ ca cosecha ca."
+    },
+    {
+        "espanol": "Hoy hace mucho viento.",
+        "zapoteco": "Nabé cayaba bi yannadxí."
+    },
+    {
+        "espanol": "El sol está muy fuerte hoy.",
+        "zapoteco": "Nabé nadipaʼ Gubidxa ca yanna."
+    },
+    {
+        "espanol": "¿Te gusta vivir en el campo?",
+        "zapoteco": "Pa riuuláʼdxiluʼ guibániluʼ ndaaniʼ ca guidxihuiiniʼ ca la?"
+    },
+    {
+        "espanol": "Las frutas están listas.",
+        "zapoteco": "Maʼ nuu ca cuananaxhi que listu."
+    },
+    {
+        "espanol": "Voy a regar las flores.",
+        "zapoteco": "Naa nga chigudieeʼ nisa ca guieʼ ca."
+    },
+    {
+        "espanol": "Necesito reparar la cerca.",
+        "zapoteco": "Naquiiñeʼ guneʼ chaahuiʼ valla que."
+    },
+    {
+        "espanol": "El camino está muy lodoso.",
+        "zapoteco": "Nabé nabidxi neza que."
+    },
+    {
+        "espanol": "Hoy sembramos frijol.",
+        "zapoteco": "Yanna riʼ maʼ bidxiibadu haba."
+    },
+    {
+        "espanol": "Necesito llevar agua limpia.",
+        "zapoteco": "Caquiiñeʼ guedanéʼ nisa nayá."
+    },
+    {
+        "espanol": "¿Quieres ayudar en la cosecha?",
+        "zapoteco": "Pa racaláʼdxiluʼ gacaneluʼ lu cosecha ca la?"
+    },
+    {
+        "espanol": "Las verduras están creciendo rápido.",
+        "zapoteco": "Nabé nagueenda rindáʼ naxhi ca verdura ca."
+    },
+    {
+        "espanol": "El campo está tranquilo.",
+        "zapoteco": "Nabé nandáʼ ca layú que."
+    },
+    {
+        "espanol": "Voy por agua al pozo.",
+        "zapoteco": "Riaaʼ ra bizé que para guicaaʼ nisa."
+    },
+    {
+        "espanol": "Vamos a plantar árboles frutales.",
+        "zapoteco": "Laanu chigudxiibanu yaga cuananaxhi."
+    },
+    {
+        "espanol": "El campo está hermoso en primavera.",
+        "zapoteco": "Nabé sicarú ca layú ca ora maʼ nuu primavera."
+    }
+]
